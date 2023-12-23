@@ -29,7 +29,12 @@ Instructions:
     "telegram": null, # optional value. tg handle is enough.
     "telegram2": null, # optional value. tg handle is enough.
     "discord": "https://discord.gg/wmt9c5F2Ex", # optional value. share full value of the url
-    "coingeckoId": null # optional value (update it when it becomes available) - API Id from coingecko.com. This will be used to show dollar value of token balances.
+    "coingeckoId": null, # optional value (update it when it becomes available) - API Id from coingecko.com. This will be used to show dollar value of token balances.
+    "knownAddresses": [
+        {"inj1a78hlc49t4g3xls4zm0f59aqqvnq7d7c6reaa6": "Astroport LP"},
+        {"xxxx": "DAO"},
+        {"xxxx": "Airdrop"}
+    ]
 }
 ```
  5. Commit changes to your branch

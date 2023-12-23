@@ -1,0 +1,15 @@
+{
+    "ticker": "SEIYAN",
+    "tokenFactoryDenom": null,
+    "tokenContract": "sei1hrndqntlvtmx2kepr0zsfgr7nzjptcc72cr4ppk4yav58vvy7v3s4er8ed / astro pool sei17pcj9gjz29d3x5kh4tu5hkl988jfjmzk56rgxa0u84g5rwkcfqdqvp47gu",
+    "exponent": 6,
+    "name": "Alpha Bulls",
+    "description": "Meme token",
+    "logoUrl": "https://pbs.twimg.com/profile_images/1737147980497506305/wZXJIKdy_400x400.jpg",
+    "website": null,
+    "twitter": "seiyantoken9000",
+    "telegram": "seiyantoken9000",
+    "telegram2": null,
+    "discord": "https://discord.com/invite/seiyantoken9000",
+    "coingeckoId": "seiyan"
+}
