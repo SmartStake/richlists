@@ -1,0 +1,14 @@
+{
+    "ticker": "BULLS",
+    "tokenFactoryDenom": "factory/inj1zq37mfquqgud2uqemqdkyv36gdstkxl27pj5e3/bulls",
+    "exponent": 6,
+    "name": "Alpha Bulls",
+    "description": "Curateed Alpha information for community",
+    "logoUrl": "https://ibb.co/hD0YvBf",
+    "website": "https://www.alphabulls.xyz",
+    "twitter": "Alphabulls_",
+    "telegram": null,
+    "telegram2": null,
+    "discord": "https://discord.gg/wmt9c5F2Ex",
+    "coingeckoId": null
+}
