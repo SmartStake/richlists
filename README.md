@@ -12,9 +12,8 @@ Prechecks:
 
 Instructions:
  1. Fork this repository
- 2. In your own instance of the repository, locate the folder for the network where you are launching the token.
- 3. If folder is not present, create folder for the network using the token symbol for the network e.g. INJ, NTRN
- 4. Create TokenSymbol.json file with below structure and enter all the information that is available (e.g. AUTISM.json). The JSON file has below given structure (see sample values & explanation). Please pay attention to the case of attributes (e.g. logoUrl is the correct attribute logourl and LOGOURL are wrong). Also note that the full structure must be present, if you dont have some of the information, you can leave that as null (without any double quotes)
+ 2. In your own instance of the repository, check to see if TokenSymbol-Network.json file is present (e.g. BULLS-INJ.json)
+ 3. Create TokenSymbol-Network.json file (e.g. BULLS-INJ.json) with below structure and enter all the information that is available (e.g. AUTISM.json). The JSON file has below given structure (see sample values & explanation). Please pay attention to the case of attributes (e.g. logoUrl is the correct attribute logourl and LOGOURL are wrong). Also note that the full structure must be present, if you dont have some of the information, you can leave that as null (without any double quotes)
  
 ```   
 {
@@ -37,10 +36,10 @@ Instructions:
     ]
 }
 ```
- 5. Commit changes to your branch
- 6. Open a pull request
- 7. In case of delays in your changes getting accepted/rejected (give it 1 business day), reach out to Smart Stake support at https://t.me/SmartStake or https://t.me/bigb4ever
- 8. After pull requested is accepted, give it another 4 hours before checking richlist on https://analytics.smartstake.io. If richlist still doesn't appear, reach out to Smart Stake support.
+ 4. Commit changes to your branch
+ 5. Open a pull request
+ 6. In case of delays in your changes getting accepted/rejected (give it 1 business day), reach out to Smart Stake support at https://t.me/SmartStake or https://t.me/bigb4ever
+ 7. After pull requested is accepted, give it another 4 hours before checking richlist on https://analytics.smartstake.io. If richlist still doesn't appear, reach out to Smart Stake support.
 
 
 # Instructions to update a token
