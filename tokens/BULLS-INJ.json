@@ -1,5 +1,6 @@
 {
     "ticker": "BULLS",
+    "network": "INJ",
     "tokenFactoryDenom": "factory/inj1zq37mfquqgud2uqemqdkyv36gdstkxl27pj5e3/bulls",
     "exponent": 6,
     "name": "Alpha Bulls",

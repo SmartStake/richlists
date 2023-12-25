@@ -18,6 +18,7 @@ Instructions:
 ```   
 {
     "ticker": "BULLS", # mandatory
+    "network": "INJ", # mandatory - ticker for the network where the token is minted
     "tokenFactoryDenom": "factory/inj1zq37mfquqgud2uqemqdkyv36gdstkxl27pj5e3/bulls",  # mandatory. must match the format given
     "exponent": 6, # mandatory. number of decimal places in the token balance
     "name": "Alpha Bulls", # mandatory
