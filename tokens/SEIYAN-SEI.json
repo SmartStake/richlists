@@ -1,5 +1,6 @@
 {
     "ticker": "SEIYAN",
+    "network": "SEI",
     "tokenFactoryDenom": "factory/sei139has0hh3cu4v6evf34pj3t4xyrm2d0ewccq5f/SEIYAN",
     "exponent": 6,
     "name": "Seiyan",
