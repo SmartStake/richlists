@@ -11,5 +11,6 @@
     "telegram": "seiyantoken9000",
     "telegram2": null,
     "discord": "https://discord.com/invite/seiyantoken9000",
-    "coingeckoId": "seiyan"
+    "coingeckoId": "seiyan",
+    "knownAddresses": []
 }
