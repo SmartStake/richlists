@@ -1,0 +1,21 @@
+{
+    "name": "Super Guppy",
+    "ticker": "GUPPY",
+    "network": "WHALE",
+    "tokenType": "tokenfactory",
+    "tokenDenom": "factory/migaloo1etlu2h30tjvv8rfa4fwdc43c92f6ul5w9acxzk/uguppy",
+    "exponent": 6,
+    "description": "Meme token",
+    "logoUrl": "tokens/guppy.jpg",
+    "website": "whale.burn.community",
+    "twitter": "_ASH_DAO",
+    "telegram": "https://t.me/+QooIWNEfR6c3MmM5",
+    "telegram2": null,
+    "discord": null,
+    "coingeckoId": null,
+    "knownAddresses": [
+    ],
+    "ibc": [
+        {"OSMO": "ibc/42A9553A7770F3D7B62F3A82AF04E7719B4FD6EAF31BE5645092AAC4A6C2201D"}
+    ]
+}

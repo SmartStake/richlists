@@ -12,28 +12,36 @@ Prechecks:
 
 Instructions:
  1. Fork this repository
- 2. In your own instance of the repository, check to see if TokenSymbol-Network.json file is present (e.g. INJ-BULLS.json)
- 3. Create Network-TokenSymbol.json file (e.g. INJ-BULLS.json) with below structure and enter all the information that is available. The JSON file has below given structure (see sample values & explanation). Please pay attention to the case of attributes (e.g. logoUrl is the correct attribute logourl and LOGOURL are wrong). Also note that the full structure must be present, if you dont have some of the information, you can leave that as null (without any double quotes)
+ 2. In your own instance of the repository, check to see if TokenSymbol.json file is present (e.g. BULLS.json)
+ 3. Create TokenSymbol.json file (e.g. BULLS.json) with below structure and enter all the information that is available. The JSON file has below given structure (see sample values & explanation). Please pay attention to the case of attributes (e.g. logoUrl is the correct attribute logourl and LOGOURL are wrong). Also note that the full structure must be present, if you dont have some of the information, you can leave that as null (without any double quotes)
  
 ```   
 {
+    "name": "Alpha Bulls", # mandatory
     "ticker": "BULLS", # mandatory
     "network": "INJ", # mandatory - ticker for the network where the token is minted
-    "tokenFactoryDenom": "factory/inj1zq37mfquqgud2uqemqdkyv36gdstkxl27pj5e3/bulls",  # mandatory. must match the format given. Try total supply API for the network to figure out the correct input e.g. https://rest.cosmos.directory/injective/cosmos/bank/v1beta1/supply
+    "tokenType": "tokenfactory", # mandatory - tokenfactory or ibc or smartcontract
+    "tokenDenom": "factory/inj1zq37mfquqgud2uqemqdkyv36gdstkxl27pj5e3/bulls",  # mandatory for tokenfactory or ibc. must match the format given. Try total supply API for the network to figure out the correct input e.g. https://rest.cosmos.directory/injective/cosmos/bank/v1beta1/supply. For token factory tokens, it will be like: factory/inj1zq37mfquqgud2uqemqdkyv36gdstkxl27pj5e3/bulls. For an IBC asset, it will be like: ibc/0EC78B75D318EA0AAB6160A12AEE8F3C7FEA3CFEAD001A3B103E11914709F4CE
+    "holderContract": null, # mandatory for smartcontract based tokens
+    "stakerContract": null, # optional and applicable only for smartcontract based tokens at this time
     "exponent": 6, # mandatory. number of decimal places in the token balance
-    "name": "Alpha Bulls", # mandatory
-    "description": "Curated Alpha information for community", # optional value
-    "logoUrl": "https://ibb.co/hD0YvBf", # mandatory
-    "website": "https://www.alphabulls.xyz", # optional value
-    "twitter": "Alphabulls_", # optional value. twitter handle is enough.
-    "telegram": null, # optional value. tg handle is enough.
-    "telegram2": null, # optional value. tg handle is enough.
-    "discord": "https://discord.gg/wmt9c5F2Ex", # optional value. share full value of the url
-    "coingeckoId": null, # optional value (update it when it becomes available) - API Id from coingecko.com. This will be used to show dollar value of token balances.
+    "description": "Curated Alpha information for community", # optional value. not needed for IBC assets if they are already supported on smart stake on the primary network e.g. Terra for Astroport
+    "logoUrl": "https://ibb.co/hD0YvBf", # mandatory for tokenfactory. not needed for IBC assets 
+    "website": "https://www.alphabulls.xyz", # optional value. not needed for IBC assets
+    "twitter": "Alphabulls_", # optional value. twitter handle is enough. not needed for IBC assets
+    "telegram": null, # optional value. tg handle is enough. not needed for IBC assets
+    "telegram2": null, # optional value. tg handle is enough. not needed for IBC assets
+    "discord": "https://discord.gg/wmt9c5F2Ex", # optional value. share full value of the url. not needed for IBC assets
+    "coingeckoId": null, # optional value (update it when it becomes available) - API Id from coingecko.com. This will be used to show dollar value of token balances. not needed for IBC assets
     "knownAddresses": [
         {"inj1a78hlc49t4g3xls4zm0f59aqqvnq7d7c6reaa6": "Astroport LP"},
         {"xxxx": "DAO"},
         {"xxxx": "Airdrop"}
+    ],
+    "ibc": [ # listing of IBC assets for this token e.g if token is present as ibc asset in OSMO, INJ, SEI, below entries are needed
+        {"OSMO": "ibc/42A9553A7770F3D7B62F3A82AF04E7719B4FD6EAF31BE5645092AAC4A6C2201D"},
+        {"INJ": "ibc/EBD5A24C554198EBAF44979C5B4D2C2D312E6EBAB71962C92F735499C7575839"},
+        {"SEI": "ibc/0EC78B75D318EA0AAB6160A12AEE8F3C7FEA3CFEAD001A3B103E11914709F4CE"}
     ]
 }
 ```

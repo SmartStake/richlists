@@ -1,9 +1,10 @@
 {
+    "name": "Alpha Bulls",
     "ticker": "BULLS",
     "network": "INJ",
-    "tokenFactoryDenom": "factory/inj1zq37mfquqgud2uqemqdkyv36gdstkxl27pj5e3/bulls",
+    "tokenType": "tokenfactory",
+    "tokenDenom": "factory/inj1zq37mfquqgud2uqemqdkyv36gdstkxl27pj5e3/bulls",
     "exponent": 6,
-    "name": "Alpha Bulls",
     "description": "Curateed Alpha information for community",
     "logoUrl": "https://i.ibb.co/hD0YvBf/BULLS-FRONT-VIEW.jpg",
     "website": "https://www.alphabulls.xyz",

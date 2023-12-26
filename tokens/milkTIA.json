@@ -1,9 +1,10 @@
 {
+    "name": "MilkyWay Staked TIA",
     "ticker": "milkTIA",
     "network": "OSMO",
-    "tokenFactoryDenom": "factory/osmo1f5vfcph2dvfeqcqkhetwv75fda69z7e5c2dldm3kvgj23crkv6wqcn47a0/umilkTIA",
+    "tokenType": "tokenfactory",
+    "tokenDenom": "factory/osmo1f5vfcph2dvfeqcqkhetwv75fda69z7e5c2dldm3kvgj23crkv6wqcn47a0/umilkTIA",
     "exponent": 6,
-    "name": "MilkyWay Staked TIA",
     "description": "Liquid Staking protocol tailored for Celestia's modular blockchain ecosystem",
     "logoUrl": "https://pbs.twimg.com/profile_images/1730636092364517378/vY7AUjuW_400x400.jpg",
     "website": "milkyway.zone",

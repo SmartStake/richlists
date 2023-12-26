@@ -1,0 +1,18 @@
+{
+    "name": "Max",
+    "ticker": "MAX",
+    "network": "INJ",
+    "tokenType": "tokenfactory",
+    "tokenDenom": "factory/inj164jk46xjwsn6x4rzu6sfuvtlzy2nza0nxfj0nz/MAX",
+    "exponent": 6,
+    "description": "Meme token",
+    "logoUrl": "https://app.astroport.fi/tokens/generated/max.jpg",
+    "website": null,
+    "twitter": null,
+    "telegram": null,
+    "telegram2": null,
+    "discord": null,
+    "coingeckoId": null,
+    "knownAddresses": [
+    ]
+}
