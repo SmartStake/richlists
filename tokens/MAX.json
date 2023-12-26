@@ -14,5 +14,6 @@
     "discord": null,
     "coingeckoId": null,
     "knownAddresses": [
-    ]
+    ],
+    "ibc": []
 }

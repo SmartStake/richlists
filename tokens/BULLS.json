@@ -15,5 +15,6 @@
     "coingeckoId": null,
     "knownAddresses": [
         {"inj1a78hlc49t4g3xls4zm0f59aqqvnq7d7c6reaa6": "Astroport LP"}
-    ]
+    ],
+    "ibc": []
 }
