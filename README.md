@@ -19,7 +19,7 @@ Instructions:
 {
     "ticker": "BULLS", # mandatory
     "network": "INJ", # mandatory - ticker for the network where the token is minted
-    "tokenFactoryDenom": "factory/inj1zq37mfquqgud2uqemqdkyv36gdstkxl27pj5e3/bulls",  # mandatory. must match the format given
+    "tokenFactoryDenom": "factory/inj1zq37mfquqgud2uqemqdkyv36gdstkxl27pj5e3/bulls",  # mandatory. must match the format given. Try total supply API for the network to figure out the correct input e.g. https://rest.cosmos.directory/injective/cosmos/bank/v1beta1/supply
     "exponent": 6, # mandatory. number of decimal places in the token balance
     "name": "Alpha Bulls", # mandatory
     "description": "Curated Alpha information for community", # optional value
