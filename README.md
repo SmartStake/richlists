@@ -12,8 +12,8 @@ Prechecks:
 
 Instructions:
  1. Fork this repository
- 2. In your own instance of the repository, check to see if TokenSymbol-Network.json file is present (e.g. BULLS-INJ.json)
- 3. Create TokenSymbol-Network.json file (e.g. BULLS-INJ.json) with below structure and enter all the information that is available (e.g. AUTISM.json). The JSON file has below given structure (see sample values & explanation). Please pay attention to the case of attributes (e.g. logoUrl is the correct attribute logourl and LOGOURL are wrong). Also note that the full structure must be present, if you dont have some of the information, you can leave that as null (without any double quotes)
+ 2. In your own instance of the repository, check to see if TokenSymbol-Network.json file is present (e.g. INJ-BULLS.json)
+ 3. Create Network-TokenSymbol.json file (e.g. INJ-BULLS.json) with below structure and enter all the information that is available. The JSON file has below given structure (see sample values & explanation). Please pay attention to the case of attributes (e.g. logoUrl is the correct attribute logourl and LOGOURL are wrong). Also note that the full structure must be present, if you dont have some of the information, you can leave that as null (without any double quotes)
  
 ```   
 {
