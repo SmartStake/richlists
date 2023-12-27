@@ -1,1 +1,23 @@
-
+{
+    "name": "SHINOBI INU", # mandatory
+    "ticker": "NOBI", # mandatory
+    "network": "INJ", # mandatory - ticker for the network where the token is minted
+    "tokenType": "tokenfactory", # mandatory - tokenfactory or ibc or smartcontract
+    "tokenDenom": "factory/inj1t02au5gsk40ev9jaq0ggcyry9deuvvza6s4wav/Shinobi",  # mandatory for tokenfactory or ibc. must match the format given. Try total supply API for the network to figure out the correct input e.g. https://rest.cosmos.directory/injective/cosmos/bank/v1beta1/supply. For token factory tokens, it will be like: factory/inj1zq37mfquqgud2uqemqdkyv36gdstkxl27pj5e3/bulls. For an IBC asset, it will be like: ibc/0EC78B75D318EA0AAB6160A12AEE8F3C7FEA3CFEAD001A3B103E11914709F4CE
+    "holderContract": null, # mandatory for smartcontract based tokens
+    "stakerContract": null, # optional and applicable only for smartcontract based tokens at this time
+    "exponent": 6, # mandatory. number of decimal places in the token balance
+    "description": "Injective's First Community Meme Token with a DeFi Twist", # optional value. not needed for IBC assets if they are already supported on smart stake on the primary network e.g. Terra for Astroport
+    "logoUrl": "https://www.shinobi.kim/img/illustrations/INU.png", # mandatory for tokenfactory. not needed for IBC assets 
+    "website": "https://www.shinobi.kim/", # optional value. not needed for IBC assets
+    "twitter": "https://twitter.com/ShinobiInuCoin", # optional value. twitter handle is enough. not needed for IBC assets
+    "telegram": "https://t.me/Shinobi_Inu_Channel", # optional value. tg handle is enough. not needed for IBC assets
+    "telegram2": null, # optional value. tg handle is enough. not needed for IBC assets
+    "discord": null, # optional value. share full value of the url. not needed for IBC assets
+    "coingeckoId": null, # optional value (update it when it becomes available) - API Id from coingecko.com. This will be used to show dollar value of token balances. not needed for IBC assets
+    "status": "active" # mandatory. Active indicates token is to be supported. Inactive or any other value will delist the token from Smart Stake
+    "knownAddresses": [
+        {"inj1d5qsftmn7ztx2zgwe409nljz3vxlyks2w0pdyx": "Astroport LP Token"},
+        {"inj1yzrhefq7g75vppxrmd2va6ma853cvka400acvv": "Astroport Pool"}
+    ],
+}
