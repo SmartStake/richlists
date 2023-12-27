@@ -33,6 +33,7 @@ Instructions:
     "telegram2": null, # optional value. tg handle is enough. not needed for IBC assets
     "discord": "https://discord.gg/wmt9c5F2Ex", # optional value. share full value of the url. not needed for IBC assets
     "coingeckoId": null, # optional value (update it when it becomes available) - API Id from coingecko.com. This will be used to show dollar value of token balances. not needed for IBC assets
+    "status": "active" # mandatory. Active indicates token is to be supported. Inactive or any other value will delist the token from Smart Stake
     "knownAddresses": [
         {"inj1a78hlc49t4g3xls4zm0f59aqqvnq7d7c6reaa6": "Astroport LP"},
         {"xxxx": "DAO"},
@@ -42,7 +43,7 @@ Instructions:
         {"network": "OSMO", "denom": "ibc/42A9553A7770F3D7B62F3A82AF04E7719B4FD6EAF31BE5645092AAC4A6C2201D", "knownAddresses": []},
         {"network": "INJ", "denom": "ibc/EBD5A24C554198EBAF44979C5B4D2C2D312E6EBAB71962C92F735499C7575839", "knownAddresses": []},
         {"network": "SEI", "denom": "ibc/0EC78B75D318EA0AAB6160A12AEE8F3C7FEA3CFEAD001A3B103E11914709F4CE", "knownAddresses": []}
-    ]
+    ],
 }
 ```
  4. Commit changes to your branch
