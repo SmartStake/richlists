@@ -15,7 +15,7 @@
     "telegram2": null, 
     "discord": null, 
     "coingeckoId": null, 
-    "status": "active" 
+    "status": "active", 
     "knownAddresses": [
         {"inj1d5qsftmn7ztx2zgwe409nljz3vxlyks2w0pdyx": "Astroport LP Token"},
         {"inj1yzrhefq7g75vppxrmd2va6ma853cvka400acvv": "Astroport Pool"}
