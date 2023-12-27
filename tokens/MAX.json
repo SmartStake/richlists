@@ -13,7 +13,6 @@
     "telegram2": null,
     "discord": null,
     "coingeckoId": null,
-    "knownAddresses": [
-    ],
+    "knownAddresses": [],
     "ibc": []
 }

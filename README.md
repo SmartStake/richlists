@@ -39,9 +39,9 @@ Instructions:
         {"xxxx": "Airdrop"}
     ],
     "ibc": [ # listing of IBC assets for this token e.g if token is present as ibc asset in OSMO, INJ, SEI, below entries are needed
-        {"OSMO": "ibc/42A9553A7770F3D7B62F3A82AF04E7719B4FD6EAF31BE5645092AAC4A6C2201D"},
-        {"INJ": "ibc/EBD5A24C554198EBAF44979C5B4D2C2D312E6EBAB71962C92F735499C7575839"},
-        {"SEI": "ibc/0EC78B75D318EA0AAB6160A12AEE8F3C7FEA3CFEAD001A3B103E11914709F4CE"}
+        {"network": "OSMO", "denom": "ibc/42A9553A7770F3D7B62F3A82AF04E7719B4FD6EAF31BE5645092AAC4A6C2201D", "knownAddresses": []},
+        {"network": "INJ", "denom": "ibc/EBD5A24C554198EBAF44979C5B4D2C2D312E6EBAB71962C92F735499C7575839", "knownAddresses": []},
+        {"network": "SEI", "denom": "ibc/0EC78B75D318EA0AAB6160A12AEE8F3C7FEA3CFEAD001A3B103E11914709F4CE", "knownAddresses": []}
     ]
 }
 ```

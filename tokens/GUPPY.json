@@ -13,9 +13,8 @@
     "telegram2": null,
     "discord": null,
     "coingeckoId": null,
-    "knownAddresses": [
-    ],
+    "knownAddresses": [],
     "ibc": [
-        {"OSMO": "ibc/42A9553A7770F3D7B62F3A82AF04E7719B4FD6EAF31BE5645092AAC4A6C2201D"}
+        {"network": "OSMO", "denom": "ibc/42A9553A7770F3D7B62F3A82AF04E7719B4FD6EAF31BE5645092AAC4A6C2201D", "knownAddresses": []}
     ]
 }

@@ -13,7 +13,6 @@
     "telegram2": null,
     "discord": "https://discord.gg/wmt9c5F2Ex",
     "coingeckoId": "milkyway-staked-tia",
-    "knownAddresses": [
-    ],
+    "knownAddresses": [],
     "ibc": []
 }
