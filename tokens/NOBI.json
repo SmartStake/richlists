@@ -1,0 +1,23 @@
+{
+    "name": "SHINOBI INU", 
+    "ticker": "NOBI", 
+    "network": "INJ", 
+    "tokenType": "tokenfactory", 
+    "tokenDenom": "factory/inj1t02au5gsk40ev9jaq0ggcyry9deuvvza6s4wav/Shinobi",  
+    "holderContract": null, 
+    "stakerContract": null, 
+    "exponent": 6, 
+    "description": "Injective's First Community Meme Token with a DeFi Twist", 
+    "logoUrl": "https://www.shinobi.kim/img/illustrations/INU.png", 
+    "website": "https://www.shinobi.kim/", 
+    "twitter": "https://twitter.com/ShinobiInuCoin", 
+    "telegram": "https://t.me/Shinobi_Inu_Channel", 
+    "telegram2": null, 
+    "discord": null, 
+    "coingeckoId": null, 
+    "status": "active" 
+    "knownAddresses": [
+        {"inj1d5qsftmn7ztx2zgwe409nljz3vxlyks2w0pdyx": "Astroport LP Token"},
+        {"inj1yzrhefq7g75vppxrmd2va6ma853cvka400acvv": "Astroport Pool"}
+    ]
+}
