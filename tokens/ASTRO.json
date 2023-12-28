@@ -20,6 +20,6 @@
     "ibc": [
         {"network": "NTRN", "denom": "ibc/5751B8BCDA688FD0A8EC0B292EEF1CDEAB4B766B63EC632778B196D317C40C3A", "knownAddresses": []},
         {"network": "INJ", "denom": "ibc/EBD5A24C554198EBAF44979C5B4D2C2D312E6EBAB71962C92F735499C7575839", "knownAddresses": []},
-        {"network": "SEI", "denom": "ibc/0EC78B75D318EA0AAB6160A12AEE8F3C7FEA3CFEAD001A3B103E11914709F4CE", "knownAddresses": []}
+        {"network": "SEI", "denom": "ibc/F082B65C88E4B6D5EF1DB243CDA1D331D002759E938A0F5CD3FFDC5D53B3E349", "knownAddresses": []}
     ]
 }
