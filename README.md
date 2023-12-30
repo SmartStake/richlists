@@ -17,7 +17,7 @@ Instructions:
  
 ```   
 {
-    "name": "Alpha Bulls", # mandatory
+    "name": "Alpha Bulls", # mandatory (the comments mentioned here should not be added to the json file you submit. see any of the existing file for reference)
     "ticker": "BULLS", # mandatory
     "network": "INJ", # mandatory - ticker for the network where the token is minted
     "tokenType": "tokenfactory", # mandatory - tokenfactory or ibc or smartcontract
