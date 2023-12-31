@@ -20,10 +20,10 @@ Instructions:
     "name": "Alpha Bulls", # mandatory (the comments mentioned here should not be added to the json file you submit. see any of the existing file for reference)
     "ticker": "BULLS", # mandatory
     "network": "INJ", # mandatory - ticker for the network where the token is minted
-    "tokenType": "tokenfactory", # mandatory - tokenfactory or ibc or smartcontract
+    "tokenType": "tokenfactory", # mandatory - tokenfactory or ibc or cw20
     "tokenDenom": "factory/inj1zq37mfquqgud2uqemqdkyv36gdstkxl27pj5e3/bulls",  # mandatory for tokenfactory or ibc. must match the format given. Try total supply API for the network to figure out the correct input e.g. https://rest.cosmos.directory/injective/cosmos/bank/v1beta1/supply. For token factory tokens, it will be like: factory/inj1zq37mfquqgud2uqemqdkyv36gdstkxl27pj5e3/bulls. For an IBC asset, it will be like: ibc/0EC78B75D318EA0AAB6160A12AEE8F3C7FEA3CFEAD001A3B103E11914709F4CE
-    "holderContract": null, # mandatory for smartcontract based tokens
-    "stakerContract": null, # optional and applicable only for smartcontract based tokens at this time
+    "holderContract": null, # mandatory for cw20 based tokens
+    "stakerContract": null, # optional and applicable only for cw20 based tokens at this time
     "exponent": 6, # mandatory. number of decimal places in the token balance
     "description": "Curated Alpha information for community", # optional value. not needed for IBC assets if they are already supported on smart stake on the primary network e.g. Terra for Astroport
     "logoUrl": "https://ibb.co/hD0YvBf", # mandatory for tokenfactory. not needed for IBC assets 
