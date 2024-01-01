@@ -50,8 +50,80 @@
             "alias": "Team Wallet"
         },
         {
+            "address": "terra1xjfeg8fhgxdpqwnj2svqs659scqjnd0ese3xvrvhm03r6vnh4s2sdp6n5k",
+            "alias": "TheOnlyOneDao xxx token staking membership"
+        },
+        {
+            "address": "terra18wwlt7quzxxxnq3we3vjlmsmzwz2klr3xz3ks3paer2jkm0t837qhqk88r",
+            "alias": "xxx/ROAR LP"
+        },
+        {
+            "address": "terra1eq67ztwkr66zwpg0vw7k5e6rt0ty9a5ftd5ttcfvd0t0r62sj5tswscxwg",
+            "alias": "xxx/LUNA LP"
+        },
+        {
+            "address": "terra1gznj0vqqlxlgn38pl8554l2rhwq6x4yj97xfqqef40lrzdjxxz9qs9qd7a",
+            "alias": "xxx/USD LP"
+        },
+        {
+            "address": "terra1ju8ykwras2zwnq8nzx4s2henx2qryzpsh58ljx4h2k5l0a30e7sqeu5kzv",
+            "alias": "DROGO/xxx LP"
+        },
+        {
+            "address": "terra14zkd5z6qmg23es2qsyn75w4p42d73yykjc23f09fqwtm53ur5n6qnq8q4t",
+            "alias": "ARMANi/xxx LP"
+        },
+        {
+            "address": "terra1a4uy35zp86gr972ep4uk8g8mm0gdx2dc97wsnvjeqmdqv8hvaqxqq3udfx",
+            "alias": "xxx/ETH LP"
+        },
+        {
+            "address": "terra18ek6pmmucrrzy63mplag8l3875l7dmq70ljypr8nelqwm5dmzzrsz5hyx6",
+            "alias": "xxx/BTC LP"
+        },
+        {
+            "address": "terra1pe2mxtpwczdd75m6rustheq7cd4445v4d5dugpmaade7seeaqthqkrz7gf",
+            "alias": "xxx/ASTRO LP"
+        },
+        {
+            "address": "terra137uqa45hergnwrw2rxsn4rc0ut3qv88vntesj9g6azrppp3ar3tqxjeut6",
+            "alias": "xxx/CAPA LP"
+        },
+        {
+            "address": "terra1xr2ctc6vyggd2ntduxjp6suk2xhhtvdl52uve6uklee4ywqx23ysan2fuf",
+            "alias": "xxx/BITZ LP"
+        },
+        {
+            "address": "terra1t4089fys98dd8m3tu5z3vdnlnzlj6lev0vpugyhfesl5d33yhnxstjfg59",
+            "alias": "xxx/VKR LP"
+        },
+        {
+            "address": "terra1vp5wfkwtwnhwhfylpyexpmc255mrrek5u2ksfgcet45ppw5dce5q04ujll",
+            "alias": "xxx/SAYVE LP"
+        },
+        {
+            "address": "terra1tvz3qt3pa4eech3thau4f87nssj8qy4ygm5late5etkg34yxtnvq3juhv7",
+            "alias": "xxx/OSMO LP"
+        },
+        {
+            "address": "terra17ctvz8aw42vryuj0qr652t402sc3mtjkwqkl68rqtxkrvwn97v9svradwy",
+            "alias": "xxx/ORNE LP"
+        },
+        {
+            "address": "terra1dfutjj3cxgw43cdkcnqm9hupr95z7kw0s9n5m34df0hanmvs7sxsjwkvns",
+            "alias": "xxx/SEAS LP"
+        },
+        {
+            "address": "terra1ypmrx573wpnlerrkwgstfs972wuf02u03n5us6kdawcpymsqxk0qxjq8nl",
+            "alias": "xxx/KUJI LP"
+        },
+        {
+            "address": "terra16sq6yd0phmx22ch3werg0n6ukla6vs2ma3lsj0kf95pp7ccp2sxqw0l799",
+            "alias": "xxx/WHALE LP"
+        },
+        {
             "address": "terra1mjhu6tnf8djhnnnntfzs3s58trh8qgp57g3ppx90xxrhh3u36x6qzej956",
-            "alias": "Treasury & Staking"
+            "alias": "TheOnlyOneDAO treasury"
         }
     ],
     "ibc": []
