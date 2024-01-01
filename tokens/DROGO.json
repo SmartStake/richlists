@@ -15,10 +15,23 @@
     "coingeckoId": null,
     "status": "active",
     "knownAddresses": [
-        {"terra1ju8ykwras2zwnq8nzx4s2henx2qryzpsh58ljx4h2k5l0a30e7sqeu5kzv": "DROGO/xxx LP"}
-        {"terra1wfzn5tqh24d4y65nhrajpspl5lxdu6menulzhmt48sy7fcndy2lqjytcj2": "ARMANI/DROGO LP"}
-        {"terra1e204lg0ckaggqxkaqdpfe27p0d75vhdfv32svunuchdx03ls0jqsa7tllr": "DROGO Token staking membership"}
-        {"terra17jxk6xu7gcsf0eawlr8kv34uyw44wzjnugy5qr": "TheOnlyOneDAO operating wallet"}
+        {
+            "address": "terra1ju8ykwras2zwnq8nzx4s2henx2qryzpsh58ljx4h2k5l0a30e7sqeu5kzv",
+            "alias": "DROGO/xxx LP"
+        },
+        {
+            "address": "terra1wfzn5tqh24d4y65nhrajpspl5lxdu6menulzhmt48sy7fcndy2lqjytcj2",
+            "alias": "ARMANI/DROGO LP"
+        },
+        {
+            "address": "terra1e204lg0ckaggqxkaqdpfe27p0d75vhdfv32svunuchdx03ls0jqsa7tllr",
+            "alias": "DROGO Token staking membership"
+        },
+        {
+            "address": "terra17jxk6xu7gcsf0eawlr8kv34uyw44wzjnugy5qr",
+            "alias": "TheOnlyOneDAO operating wallet"
+        }
+
 
         
     ],
