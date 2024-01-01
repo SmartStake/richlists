@@ -6,7 +6,7 @@
     "tokenDenom": "terra1cl273523kmr2uwjhhznq54je69mted2u3ljffm8kp2ap4z3drdksftwqun",
     "exponent": 6,
     "description": "A Dragon always protect it's treasure",
-    "logoUrl": "https://i.imgur.com/nNecbjP.png",
+    "logoUrl": "https://i.imgur.com/Gp3Tuj8.jpg",
     "website": "https://theonlyone-dao.site/drogo.html",
     "twitter": "https://twitter.com/drogoDao",
     "telegram": "https://t.me/+idYWYcVMD6piMDhk",
@@ -16,6 +16,11 @@
     "status": "active",
     "knownAddresses": [
         {"terra1ju8ykwras2zwnq8nzx4s2henx2qryzpsh58ljx4h2k5l0a30e7sqeu5kzv": "DROGO/xxx LP"}
+        {"terra1wfzn5tqh24d4y65nhrajpspl5lxdu6menulzhmt48sy7fcndy2lqjytcj2": "ARMANI/DROGO LP"}
+        {"terra1e204lg0ckaggqxkaqdpfe27p0d75vhdfv32svunuchdx03ls0jqsa7tllr": "DROGO Token staking membership"}
+        {"terra17jxk6xu7gcsf0eawlr8kv34uyw44wzjnugy5qr": "TheOnlyOneDAO operating wallet"}
+
+        
     ],
     "ibc": []
 }
