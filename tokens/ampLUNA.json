@@ -1,0 +1,42 @@
+{
+    "name": "Eris Amplified LUNA",
+    "ticker": "ampLUNA",
+    "network": "LUNA",
+    "tokenType": "cw20",
+    "tokenDenom": null,
+    "holderContract": null,
+    "stakingContract": "terra1ecgazyd0waaj3g7l9cmy5gulhxkps2gmxu9ghducvuypjq68mq2s5lvsct",
+    "exponent": 6,
+    "description": "Liquid Staking and Slow Burn Arbitrage Protocol built on #Terra ",
+    "logoUrl": "terra/ampLuna.png",
+    "website": "erisprotocol.com",
+    "twitter": "eris_protocol",
+    "telegram": "eris_protocol",
+    "telegram2": null,
+    "discord": null,
+    "coingeckoId": "eris-amplified-luna",
+    "status": "active",
+    "knownAddresses": [
+        {
+            "address": "terra1e0mrzy8077druuu42vs0hu7ugguade0cj65dgtauyaw4gsl4kv0qtdf2au",
+            "alias": "Multi-Chain"
+        },
+        {
+            "address": "terra1cr8dg06sh343hh4xzn3gxd3ayetsjtet7q5gp4kfrewul2kql8sqvhaey4",
+            "alias": "Astroport pair\n"
+        },
+        {
+            "address": "terra18uxq2k6wpsqythpakz5n6ljnuzyehrt775zkdclrtdtv6da63gmskqn7dq",
+            "alias": "Capapult collateral"
+        },
+        {
+            "address": "terra1ccxwgew8aup6fysd7eafjzjz6hw89n40h273sgu3pl4lxrajnk5st2hvfh",
+            "alias": "ampLUNA-LUNA pair on TerraSwap"
+        },
+        {
+            "address": "terra18997xdg3mkrw5kl7jddpje687ude4j6y0cz4e3q6kfsl7037lk8qpcvavn",
+            "alias": "Eris Grant Multi-Sig"
+        }
+    ],
+    "ibc": []
+}

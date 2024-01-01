@@ -1,0 +1,21 @@
+{
+    "name": "prism-cluna",
+    "ticker": "CLUNA",
+    "network": "LUNA",
+    "tokenType": "cw20",
+    "tokenDenom": null,
+    "holderContract": null,
+    "stakingContract": "terra13eekqp0zgj55arjuacpxqxzgqy2uydf5wzzqns9ddgpepj377afqflunf3",
+    "exponent": 6,
+    "description": "Refracting and revolutionizing DeFi",
+    "logoUrl": "tokens/cLUNA.svg",
+    "website": "prismprotocol.app",
+    "twitter": "prism_protocol",
+    "telegram": null,
+    "telegram2": null,
+    "discord": null,
+    "coingeckoId": null,
+    "status": "active",
+    "knownAddresses": [],
+    "ibc": []
+}

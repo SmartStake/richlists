@@ -1,0 +1,21 @@
+{
+    "name": "Sayve Protocol",
+    "ticker": "SAYVE",
+    "network": "LUNA",
+    "tokenType": "cw20",
+    "tokenDenom": null,
+    "holderContract": "terra1xp9hrhthzddnl7j5du83gqqr4wmdjm5t0guzg9jp6jwrtpukwfjsjgy4f3",
+    "stakingContract": "terra16zc783wt2w5lvlt9u4as977lt39c3se427akkenrzyax5vtde70qa89ukv",
+    "exponent": 6,
+    "description": "Sayve is a savings and earning protocol built on the Terra Blockchain, with an AI-powered Learn to Earn mechanism.",
+    "logoUrl": "terra/savye.png",
+    "website": "sayve.money",
+    "twitter": "sayve_protocol",
+    "telegram": null,
+    "telegram2": null,
+    "discord": null,
+    "coingeckoId": "sayve-protocol",
+    "status": "active",
+    "knownAddresses": [],
+    "ibc": []
+}

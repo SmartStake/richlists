@@ -1,0 +1,21 @@
+{
+    "name": "NINJA",
+    "ticker": "NINJA",
+    "network": "INJ",
+    "tokenType": "tokenfactory",
+    "tokenDenom": "factory/inj1xtel2knkt8hmc9dnzpjz6kdmacgcfmlv5f308w/ninja",
+    "holderContract": null,
+    "stakingContract": null,
+    "exponent": 6,
+    "description": "Meme token",
+    "logoUrl": "tokens/ninja.jpg",
+    "website": "https://www.dogwifnunchucks.com/",
+    "twitter": "dogwifnunchucks",
+    "telegram": "dogwifnunchucks",
+    "telegram2": null,
+    "discord": null,
+    "coingeckoId": "dog-wif-nuchucks",
+    "status": "active",
+    "knownAddresses": [],
+    "ibc": []
+}

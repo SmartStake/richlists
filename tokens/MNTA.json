@@ -1,0 +1,21 @@
+{
+    "name": "Manta DAO",
+    "ticker": "MNTA",
+    "network": "KUJI",
+    "tokenType": "tokenfactory",
+    "tokenDenom": "factory/kujira1643jxg8wasy5cfcn7xm8rd742yeazcksqlg4d7/umnta",
+    "holderContract": null,
+    "stakingContract": null,
+    "exponent": 6,
+    "description": "Decentralized DeFi Hub Powered by Kujira",
+    "logoUrl": "projects/mnta.jpg",
+    "website": "mantadao.app",
+    "twitter": "Manta_DAO",
+    "telegram": "MantaDAO ",
+    "telegram2": null,
+    "discord": null,
+    "coingeckoId": "mantadao",
+    "status": "active",
+    "knownAddresses": [],
+    "ibc": []
+}

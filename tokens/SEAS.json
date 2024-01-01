@@ -1,0 +1,21 @@
+{
+    "name": "SEAS",
+    "ticker": "SEAS",
+    "network": "LUNA",
+    "tokenType": "cw20",
+    "tokenDenom": null,
+    "holderContract": "terra1rc6ssp5rym7a0hg29xpj4cc9e67tl56kg5jyzgl9qrhfxxc2ugvsnrkala",
+    "stakingContract": "terra1ydkvywwnl3j84tcntcwjmzgjc5u2vrqpcyjzn3slvwcpjke6nzhstm5a0g",
+    "exponent": 6,
+    "description": null,
+    "logoUrl": "terra/seas.jpeg",
+    "website": "https://enterprise.money/dao/terra1ydkvywwnl3j84tcntcwjmzgjc5u2vrqpcyjzn3slvwcpjke6nzhstm5a0g",
+    "twitter": "sailingtseasdao",
+    "telegram": "SailingTheSeaS",
+    "telegram2": null,
+    "discord": null,
+    "coingeckoId": null,
+    "status": "active",
+    "knownAddresses": [],
+    "ibc": []
+}

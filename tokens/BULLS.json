@@ -4,6 +4,8 @@
     "network": "INJ",
     "tokenType": "tokenfactory",
     "tokenDenom": "factory/inj1zq37mfquqgud2uqemqdkyv36gdstkxl27pj5e3/bulls",
+    "holderContract": null,
+    "stakingContract": null,
     "exponent": 6,
     "description": "Curateed Alpha information for community",
     "logoUrl": "https://i.ibb.co/hD0YvBf/BULLS-FRONT-VIEW.jpg",
@@ -11,11 +13,14 @@
     "twitter": "Alphabulls_",
     "telegram": null,
     "telegram2": null,
-    "discord": "https://discord.gg/wmt9c5F2Ex",
+    "discord": "wmt9c5F2Ex",
     "coingeckoId": null,
     "status": "active",
     "knownAddresses": [
-        {"inj1a78hlc49t4g3xls4zm0f59aqqvnq7d7c6reaa6": "Astroport LP"}
+        {
+            "address": "inj1a78hlc49t4g3xls4zm0f59aqqvnq7d7c6reaa6",
+            "alias": "Astroport LP"
+        }
     ],
     "ibc": []
 }

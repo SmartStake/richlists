@@ -1,0 +1,50 @@
+{
+    "name": "GEM DAO",
+    "ticker": "GEM",
+    "network": "LUNA",
+    "tokenType": "cw20",
+    "tokenDenom": null,
+    "holderContract": "terra1ynvsz80w9xmhdxucv96gkwpxlwvjgsq75xh2f3pf825c4wfmkfxskq6pqv",
+    "stakingContract": "terra1f43s2vecnmlany8q87e6qafj6mnu249k0yqzg477qsdhzsv39dhq5kxdsj",
+    "exponent": 6,
+    "description": "GEM is a low-supply store of value that is a decentralized, community-owned, & fair-launched token.",
+    "logoUrl": "projects/gem.jpg",
+    "website": null,
+    "twitter": null,
+    "telegram": null,
+    "telegram2": null,
+    "discord": "https://discord.gg/mvDYmaZfz7",
+    "coingeckoId": null,
+    "status": "active",
+    "knownAddresses": [
+        {
+            "address": "terra1hlqx8y4tgp0mkfpu3srhe0cv0w8ypketq96gqh3334wh4nkletys3xl3nu",
+            "alias": "Token staking membership"
+        },
+        {
+            "address": "terra1f43s2vecnmlany8q87e6qafj6mnu249k0yqzg477qsdhzsv39dhq5kxdsj",
+            "alias": "GEM DAO"
+        },
+        {
+            "address": "terra1ufr6km2n0ckdswpspm7afwzduqvklh5lptn4wecaa99gqvcsgwesmzmg3a",
+            "alias": "Astroport pair"
+        },
+        {
+            "address": "terra1gl0cxwd34zaed0vd04fjqt04x55xl0pc0sctnpyjsz6uyn7m4mls6rwjx7",
+            "alias": "Lion Cub Dao"
+        },
+        {
+            "address": "terra13ue4uzrd2xutzv8nc49r6urtt72s5fy6gjqua33u8fylvhz3smmsz0ng9g",
+            "alias": "Funds distributor contract"
+        },
+        {
+            "address": "terra1nfmcq5shk7fketv5tna0mtx4fh5tfe2wqjdknkjh446g7g9cj49qfkvtju",
+            "alias": "Funds distributor contract"
+        },
+        {
+            "address": "terra1tww5gcrc04ak3laqcnayatxl5ze0a8earg5uesvmdmtl6g4njshq38prgz",
+            "alias": "Funds distributor contract"
+        }
+    ],
+    "ibc": []
+}

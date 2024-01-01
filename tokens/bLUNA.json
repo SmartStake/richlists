@@ -1,0 +1,21 @@
+{
+    "name": "boneLuna",
+    "ticker": "bLUNA",
+    "network": "LUNA",
+    "tokenType": "cw20",
+    "tokenDenom": null,
+    "holderContract": null,
+    "stakingContract": "terra17aj4ty4sz4yhgm08na8drc0v03v2jwr3waxcqrwhajj729zhl7zqnpc0ml",
+    "exponent": 6,
+    "description": "A multi-chain DEFI/Collateral/NFT Hub of the COSMOS LDSs for NFT Communities.",
+    "logoUrl": "tokens/boneluna.png",
+    "website": "backbonelabs.io",
+    "twitter": "BackBone_Labs",
+    "telegram": null,
+    "telegram2": null,
+    "discord": "https://discord.gg/5aDsNqm4y5",
+    "coingeckoId": null,
+    "status": "active",
+    "knownAddresses": [],
+    "ibc": []
+}

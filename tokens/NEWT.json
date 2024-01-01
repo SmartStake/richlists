@@ -1,0 +1,30 @@
+{
+    "name": "NEWT",
+    "ticker": "NEWT",
+    "network": "NTRN",
+    "tokenType": "tokenfactory",
+    "tokenDenom": "factory/neutron1p8d89wvxyjcnawmgw72klknr3lg9gwwl6ypxda/newt",
+    "holderContract": null,
+    "stakingContract": null,
+    "exponent": 6,
+    "description": "Meme token",
+    "logoUrl": "tokens/newt.png",
+    "website": "https://newt-price.vercel.app/",
+    "twitter": "Newtrawn_org",
+    "telegram": "newtonneutron",
+    "telegram2": null,
+    "discord": null,
+    "coingeckoId": "newt",
+    "status": "active",
+    "knownAddresses": [
+        {
+            "address": "neutron1fp9wuhq58pz53wxvv3tnrxkw8m8s6swpf2fkv9",
+            "alias": "IBC 1"
+        },
+        {
+            "address": "neutron1f2ufsltxt9w0puxqsesacsl83t54qgmlehag762h3whjg9y66epstear2d",
+            "alias": "Astroport NTRN pool"
+        }
+    ],
+    "ibc": []
+}
