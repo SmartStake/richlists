@@ -1,0 +1,21 @@
+{
+    "name": "Solid",
+    "ticker": "CAPA",
+    "network": "LUNA",
+    "tokenType": "cw20",
+    "tokenDenom": null,
+    "holderContract": "terra1t4p3u8khpd7f8qzurwyafxt648dya6mp6vur3vaapswt6m24gkuqrfdhar",
+    "stakingContract": "terra1sf66d5vap897xlvv2hlcp4l20y4pp42r6ala4snk8mgd246jvufqwe0cnm",
+    "exponent": 6,
+    "description": "Decentralised CDP ($SOLID) on Terra, governed in a decentralised fashion through $CAPA holders. Proud validator of the Terra blockchain.",
+    "logoUrl": "tokens/solid.webp",
+    "website": "solid.online",
+    "twitter": "solid_capa",
+    "telegram": "",
+    "telegram2": null,
+    "discord": "",
+    "coingeckoId": null,
+    "status": "active",
+    "knownAddresses": [],
+    "ibc": []
+}

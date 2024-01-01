@@ -1,0 +1,21 @@
+{
+    "name": "Unstake",
+    "ticker": "NSTK",
+    "network": "KUJI",
+    "tokenType": "tokenfactory",
+    "tokenDenom": "factory/kujira1aaudpfr9y23lt9d45hrmskphpdfaq9ajxd3ukh/unstk",
+    "holderContract": null,
+    "stakingContract": null,
+    "exponent": 6,
+    "description": "The Instant Unstaking protocol for the interchain. Coming soon to Kujira. Don\u2019t Wait. Unstake.",
+    "logoUrl": "projects/nstk.jpg",
+    "website": "unstake.fi",
+    "twitter": "unstake_fi",
+    "telegram": null,
+    "telegram2": null,
+    "discord": null,
+    "coingeckoId": "unstake-fi",
+    "status": "active",
+    "knownAddresses": [],
+    "ibc": []
+}

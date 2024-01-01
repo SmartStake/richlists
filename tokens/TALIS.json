@@ -1,0 +1,21 @@
+{
+    "name": "Talis Protocol",
+    "ticker": "TALIS",
+    "network": "INJ",
+    "tokenType": "tokenfactory",
+    "tokenDenom": "factory/inj1maeyvxfamtn8lfyxpjca8kuvauuf2qeu6gtxm3/Talis",
+    "holderContract": null,
+    "stakingContract": null,
+    "exponent": 6,
+    "description": "The NFT marketplace that empowers artists and bridges physical & digital art on the Terra and Juno blockchain.",
+    "logoUrl": "terra/talis.jpg",
+    "website": "talis.art",
+    "twitter": "ProtocolTalis",
+    "telegram": "talisprotocol",
+    "telegram2": null,
+    "discord": "https://discord.com/invite/pgxEttXaZa",
+    "coingeckoId": "talis-protocol",
+    "status": "active",
+    "knownAddresses": [],
+    "ibc": []
+}

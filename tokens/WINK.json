@@ -1,0 +1,21 @@
+{
+    "name": "Wink",
+    "ticker": "WINK",
+    "network": "KUJI",
+    "tokenType": "tokenfactory",
+    "tokenDenom": "factory/kujira12cjjeytrqcj25uv349thltcygnp9k0kukpct0e/uwink",
+    "holderContract": null,
+    "stakingContract": null,
+    "exponent": 6,
+    "description": null,
+    "logoUrl": "projects/winkhub.jpg",
+    "website": "WinkHUB.app",
+    "twitter": "TeamWinkHUB",
+    "telegram": "WinkHUB",
+    "telegram2": null,
+    "discord": null,
+    "coingeckoId": "winkhub",
+    "status": "active",
+    "knownAddresses": [],
+    "ibc": []
+}

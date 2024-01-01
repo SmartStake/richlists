@@ -1,0 +1,26 @@
+{
+    "name": "Autism",
+    "ticker": "AUTISM",
+    "network": "INJ",
+    "tokenType": "tokenfactory",
+    "tokenDenom": "factory/inj14lf8xm6fcvlggpa7guxzjqwjmtr24gnvf56hvz/autism",
+    "holderContract": null,
+    "stakingContract": null,
+    "exponent": 6,
+    "description": "Meme token",
+    "logoUrl": "tokens/autism.jpg",
+    "website": null,
+    "twitter": "Autism_Token",
+    "telegram": "Autism_Token",
+    "telegram2": null,
+    "discord": null,
+    "coingeckoId": "autism",
+    "status": "active",
+    "knownAddresses": [
+        {
+            "address": "inj1dkfpt70kq48tm4emtj6l92gddq0z70jn8cn03g",
+            "alias": "Astroport LP"
+        }
+    ],
+    "ibc": []
+}

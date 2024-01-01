@@ -1,0 +1,21 @@
+{
+    "name": "Stader LunaX Token",
+    "ticker": "LunaX",
+    "network": "LUNA",
+    "tokenType": "cw20",
+    "tokenDenom": null,
+    "holderContract": null,
+    "stakingContract": "terra14xsm2wzvu7xaf567r693vgfkhmvfs08l68h4tjj5wjgyn5ky8e2qvzyanh",
+    "exponent": 6,
+    "description": "Earn more from staking. Stader offers the most convenient & safest way to maximize your returns on staking.",
+    "logoUrl": "terra/lunax.png",
+    "website": "staderlabs.com",
+    "twitter": "staderlabs",
+    "telegram": "staderlabs",
+    "telegram2": null,
+    "discord": "https://discord.gg/xJURAhSmav",
+    "coingeckoId": "lunax",
+    "status": "active",
+    "knownAddresses": [],
+    "ibc": []
+}

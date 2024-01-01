@@ -1,0 +1,26 @@
+{
+    "name": "KIRA",
+    "ticker": "KIRA",
+    "network": "INJ",
+    "tokenType": "tokenfactory",
+    "tokenDenom": "factory/inj1xy3kvlr4q4wdd6lrelsrw2fk2ged0any44hhwq/KIRA",
+    "holderContract": null,
+    "stakingContract": null,
+    "exponent": 6,
+    "description": "Meme token",
+    "logoUrl": "tokens/kira.jpg",
+    "website": null,
+    "twitter": "KiraOnINJ",
+    "telegram": "KiraOnInjective",
+    "telegram2": null,
+    "discord": null,
+    "coingeckoId": "kira-the-injective-cat",
+    "status": "active",
+    "knownAddresses": [
+        {
+            "address": "inj15yaw8vpv0vskh5qgpkxnuaq3dyvuzaxtytqhku",
+            "alias": "Astroport LP"
+        }
+    ],
+    "ibc": []
+}

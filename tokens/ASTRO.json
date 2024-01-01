@@ -2,7 +2,7 @@
     "name": "Astroport",
     "ticker": "ASTRO",
     "network": "LUNA",
-    "tokenType": "smartcontract",
+    "tokenType": "cw20",
     "tokenDenom": null,
     "holderContract": "terra1nsuqsk6kh58ulczatwev87ttq2z6r3pusulg9r24mfj2fvtzd4uq3exn26",
     "stakingContract": "terra1x62mjnme4y0rdnag3r8rfgjuutsqlkkyuh4ndgex0wl3wue25uksau39q8",
@@ -16,10 +16,55 @@
     "discord": null,
     "coingeckoId": "astroport-fi",
     "status": "active",
-    "knownAddresses": [],
+    "knownAddresses": [
+        {
+            "address": "terra12ncurr62xe93xrsh2drp4zvehj0gn32lfnshr8k0p4xfyju2knwq2qgmh2",
+            "alias": "Astroport Treasury"
+        },
+        {
+            "address": "terra1nyu6sk9rvtvsltm7tjjrp6rlavnm3e4sq03kltde6kesam260f8szar8ze",
+            "alias": "Astroport Staking"
+        },
+        {
+            "address": "terra1zdfquayrfx6jzxmxaltnhq8jfhas7xyrg4q9hrtwvcuyjhgd7qdsgmkgrz",
+            "alias": "Astroport Builder Unlocking Contract"
+        },
+        {
+            "address": "terra1jhfjnm39y3nn9l4520mdn4k5mw23nz0674c4gsvyrcr90z9tqcvst22fce",
+            "alias": "Astroport CW20-ICS20 contract"
+        },
+        {
+            "address": "terra1qyuarnzcc6uuft9n9mltraprreke4v8gvxd8u3nslngxhflhru9qw34nc3",
+            "alias": "Astroport Vesting"
+        },
+        {
+            "address": "terra1yv5fyftazjsy3uslzwrsaqcahn8mht87kf7jzlh50yfnu7mqxymsja06dz",
+            "alias": "TFL Liquidity Multisig"
+        },
+        {
+            "address": "terra1tm20pwpzwyyvyadu4v488hrg59nhu9v2l8v7k67nhccam4aagczsg0pzzr",
+            "alias": "Astroport pair"
+        },
+        {
+            "address": "terra1lp5qpaew3j7st98yslnrj4r63yke8vwc34y6uf5jcdu35va059dsxye54j",
+            "alias": "Warchest"
+        }
+    ],
     "ibc": [
-        {"network": "NTRN", "denom": "ibc/5751B8BCDA688FD0A8EC0B292EEF1CDEAB4B766B63EC632778B196D317C40C3A", "knownAddresses": []},
-        {"network": "INJ", "denom": "ibc/EBD5A24C554198EBAF44979C5B4D2C2D312E6EBAB71962C92F735499C7575839", "knownAddresses": []},
-        {"network": "SEI", "denom": "ibc/0EC78B75D318EA0AAB6160A12AEE8F3C7FEA3CFEAD001A3B103E11914709F4CE", "knownAddresses": []}
+        {
+            "network": "INJ",
+            "denom": "ibc/EBD5A24C554198EBAF44979C5B4D2C2D312E6EBAB71962C92F735499C7575839",
+            "knownAddresses": []
+        },
+        {
+            "network": "NTRN",
+            "denom": "ibc/5751B8BCDA688FD0A8EC0B292EEF1CDEAB4B766B63EC632778B196D317C40C3A",
+            "knownAddresses": []
+        },
+        {
+            "network": "SEI",
+            "denom": "ibc/0EC78B75D318EA0AAB6160A12AEE8F3C7FEA3CFEAD001A3B103E11914709F4CE",
+            "knownAddresses": []
+        }
     ]
 }

@@ -1,0 +1,21 @@
+{
+    "name": "Local Money",
+    "ticker": "LOCAL",
+    "network": "KUJI",
+    "tokenType": "tokenfactory",
+    "tokenDenom": "factory/kujira1swkuyt08z74n5jl7zr6hx0ru5sa2yev5v896p6/local",
+    "holderContract": null,
+    "stakingContract": null,
+    "exponent": 6,
+    "description": "Local Money is a decentralized on/off ramp protocol, live on Kujira, where users can exchange fiat for crypto.",
+    "logoUrl": "tokens/local.png",
+    "website": "localmoney.io",
+    "twitter": "",
+    "telegram": "LocalMoneyCommunity",
+    "telegram2": null,
+    "discord": "",
+    "coingeckoId": "local-money",
+    "status": "active",
+    "knownAddresses": [],
+    "ibc": []
+}

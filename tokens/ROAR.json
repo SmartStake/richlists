@@ -1,0 +1,117 @@
+{
+    "name": "Lion DAO",
+    "ticker": "ROAR",
+    "network": "LUNA",
+    "tokenType": "cw20",
+    "tokenDenom": null,
+    "holderContract": "terra1lxx40s29qvkrcj8fsa3yzyehy7w50umdvvnls2r830rys6lu2zns63eelv",
+    "stakingContract": "terra1fv92cnlenl8am5vpcamsxpr6l7y9ytpvlhery9ncy95jjxh8pmlsass2rq",
+    "exponent": 6,
+    "description": "$ROAR in the Terra Ecosystem. DAOs are like Lions. They live together in a pride, they hunt together, they cry together wen their bags dump to zero.",
+    "logoUrl": "terra/liondao.jpg",
+    "website": "https://liondao.money/",
+    "twitter": "TheLionDAO",
+    "telegram": "Lion_DAO",
+    "telegram2": null,
+    "discord": "https://discord.gg/T9dnZrzQwh",
+    "coingeckoId": "lion-dao",
+    "status": "active",
+    "knownAddresses": [
+        {
+            "address": "terra1fv92cnlenl8am5vpcamsxpr6l7y9ytpvlhery9ncy95jjxh8pmlsass2rq",
+            "alias": "Total Amount Staked"
+        },
+        {
+            "address": "terra1ksk66lcvzwaanc47nvn3athj4yzcpay8z8ru04",
+            "alias": "Distribution Wallet"
+        },
+        {
+            "address": "terra189v2ewgfx5wdhje6geefdtxefeemujplk8qw2wx3x5hdswn95l8qf4n2r0",
+            "alias": "ROAR/LUNA Astroport PCL LP"
+        },
+        {
+            "address": "terra1vklefn7n6cchn0u962w3gaszr4vf52wjvd4y95t2sydwpmpdtszsqvk9wy",
+            "alias": "ampROAR"
+        },
+        {
+            "address": "terra1e0mrzy8077druuu42vs0hu7ugguade0cj65dgtauyaw4gsl4kv0qtdf2au",
+            "alias": "ROAR on other chains"
+        },
+        {
+            "address": "terra1g8clplgv3ah405qjrf9yhkgur9zqlqayt8ftrvkuzsm5am7pr9ls7s26rx",
+            "alias": "ROAR/WHALE LP"
+        },
+        {
+            "address": "terra1d8ap3zyd6tfnruuuwvs0t927lr4zwptruhulfwnxjpqzudvyn8usfgl8ze",
+            "alias": "ROAR/ampROAR WhiteWhale LP"
+        },
+        {
+            "address": "terra10aljlvvs3spt3ug936ycty8flhu0h7yn5qyq9ytzn93kymh6xspqzgk590",
+            "alias": "Lion DAO Staking Contract"
+        },
+        {
+            "address": "terra1lxx40s29qvkrcj8fsa3yzyehy7w50umdvvnls2r830rys6lu2zns63eelv",
+            "alias": "ROAR Burnt Tokens Address"
+        },
+        {
+            "address": "terra16j3yxfwzytjm7xq7kcdmfyessz8vg6r938hrfkk64nq9dyyqcd9qczudmr",
+            "alias": "Unclaimed Lion DAO staking rewards"
+        },
+        {
+            "address": "terra1c7g9pmz2xxe66g8ujpe5tlmj3pawjp290f57cl43j6vswkdtrvwqkgme9q",
+            "alias": "ROAR/LUNA Astroport LP"
+        },
+        {
+            "address": "terra1tww5gcrc04ak3laqcnayatxl5ze0a8earg5uesvmdmtl6g4njshq38prgz",
+            "alias": "Unclaimed PixeLions DAO Rewards"
+        },
+        {
+            "address": "terra1tfygnnp00grk33e0qtz7q5p3nvjkt2eeftefavum2jdq09kpunwqe0z7p3",
+            "alias": "ROAR/pyROAR Astroport LP"
+        },
+        {
+            "address": "terra1290d4q6av48d3r8y99s4d5fqr5k75hn7l7ytz27pu3fqvg3f4jhsqr9vju",
+            "alias": "Skeleton Punks DAO Treasury"
+        },
+        {
+            "address": "terra1zhul64nwhldj756gtu7qmp5fdu6f2l0p5rmh4pquxhldw800e8fsqjrle7",
+            "alias": "ROAR/LUNA PCL Astroport LP Rewards"
+        },
+        {
+            "address": "terra1ffeg5l5wnggpzw6k8wlmcsgsv47v0n4mqu60xwq32cm4jmq47sqq8ksnyk",
+            "alias": "Astroport Rewards Contract"
+        },
+        {
+            "address": "terra1w55xc6gcgn4yxm8rpcyju4u95ff5maatxurwzwy5uryeufe925mqahnggj",
+            "alias": "ROAR/CUB Astroport LP"
+        },
+        {
+            "address": "terra18wwlt7quzxxxnq3we3vjlmsmzwz2klr3xz3ks3paer2jkm0t837qhqk88r",
+            "alias": "ROAR/XXX Astroport LP"
+        },
+        {
+            "address": "terra1p2789fvpgkdxpmwggqqeas7enw5k3j8gru67asw8f9u2aczxp0esqndtfc",
+            "alias": "ROAR/SAYVE Astroport LP"
+        },
+        {
+            "address": "terra1q9nt4sjh9c9dz7fcm0pg5u8l07hmwtkh8a3wanv9luskm2s63qjq05urvp",
+            "alias": "Astroport Limit Orders Contract"
+        },
+        {
+            "address": "terra12vm64wggp82ya9k4xcwu6k6r067zd3dpe4zn2f8u0gn5pmd69rvq0hsp5s",
+            "alias": "TFM Limit Orders"
+        }
+    ],
+    "ibc": [
+        {
+            "network": "KUJI",
+            "denom": "ibc/31ED168F5E93D988FCF223B1298113ACA818DB7BED8F7B73764C5C9FAC293609",
+            "knownAddresses": []
+        },
+        {
+            "network": "OSMO",
+            "denom": "ibc/98BCD43F190C6960D0005BC46BB765C827403A361C9C03C2FF694150A30284B0",
+            "knownAddresses": []
+        }
+    ]
+}

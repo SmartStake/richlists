@@ -3,13 +3,15 @@
     "ticker": "DROGO",
     "network": "LUNA",
     "tokenType": "cw20",
-    "tokenDenom": "terra1cl273523kmr2uwjhhznq54je69mted2u3ljffm8kp2ap4z3drdksftwqun",
+    "tokenDenom": null,
+    "holderContract": "terra1cl273523kmr2uwjhhznq54je69mted2u3ljffm8kp2ap4z3drdksftwqun",
+    "stakingContract": "terra1e204lg0ckaggqxkaqdpfe27p0d75vhdfv32svunuchdx03ls0jqsa7tllr",
     "exponent": 6,
     "description": "A Dragon always protect it's treasure",
     "logoUrl": "https://i.imgur.com/Gp3Tuj8.jpg",
     "website": "https://theonlyone-dao.site/drogo.html",
-    "twitter": "https://twitter.com/drogoDao",
-    "telegram": "https://t.me/+idYWYcVMD6piMDhk",
+    "twitter": "drogoDao",
+    "telegram": "+idYWYcVMD6piMDhk",
     "telegram2": null,
     "discord": "https://discord.com/invite/4vhZ7PkWFu",
     "coingeckoId": null,
@@ -31,9 +33,6 @@
             "address": "terra17jxk6xu7gcsf0eawlr8kv34uyw44wzjnugy5qr",
             "alias": "TheOnlyOneDAO operating wallet"
         }
-
-
-        
     ],
     "ibc": []
 }

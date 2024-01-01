@@ -1,0 +1,21 @@
+{
+    "name": "Lion CUB DAO",
+    "ticker": "CUB",
+    "network": "LUNA",
+    "tokenType": "cw20",
+    "tokenDenom": null,
+    "holderContract": "terra1lalvk0r6nhruel7fvzdppk3tup3mh5j4d4eadrqzfhle4zrf52as58hh9t",
+    "stakingContract": "terra1gl0cxwd34zaed0vd04fjqt04x55xl0pc0sctnpyjsz6uyn7m4mls6rwjx7",
+    "exponent": 6,
+    "description": "Rules are simple, CUBs make mistakes, are not serious, and follow no rules. CUB is young, simple, silly, useless, and playful. No Dev, No CEO just useless. You are the team, have fun and break the rules! #meme of the day",
+    "logoUrl": "terra/cub.png",
+    "website": "https://lioncubdao.github.io/",
+    "twitter": "lioncubDAO",
+    "telegram": "cubdao",
+    "telegram2": null,
+    "discord": null,
+    "coingeckoId": null,
+    "status": "active",
+    "knownAddresses": [],
+    "ibc": []
+}

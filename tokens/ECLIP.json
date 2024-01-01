@@ -1,0 +1,38 @@
+{
+    "name": "Eclipse FI",
+    "ticker": "ECLIP",
+    "network": "NTRN",
+    "tokenType": "tokenfactory",
+    "tokenDenom": "factory/neutron10sr06r3qkhn7xzpw3339wuj77hu06mzna6uht0/eclip",
+    "holderContract": null,
+    "stakingContract": null,
+    "exponent": 6,
+    "description": "A revolutionary hub for interchain token launches, bringing the value back into the hands of early communities.",
+    "logoUrl": "tokens/eclipsefi.webp",
+    "website": "https://eclipsefi.io/",
+    "twitter": "Eclipsefi",
+    "telegram": "t.me/EclipseFi",
+    "telegram2": null,
+    "discord": "https://discord.gg/ybDkvQ2Qp5",
+    "coingeckoId": "eclipse-fi",
+    "status": "active",
+    "knownAddresses": [
+        {
+            "address": "neutron1dvzvf870mx9uf65uqhx40yzx9gu4xlqqq2pnx362a0ndmustww3smumrf5",
+            "alias": "Hyperlane Bridge"
+        },
+        {
+            "address": "neutron1aud8lty0wwmyc86ugkzqrusnrku0ckm0ym62v4ve0jjjyepjjg6spssrwj",
+            "alias": "Treasury DAO"
+        },
+        {
+            "address": "neutron14ym0px0jfzg8t02t20ge6y3f8kxqy54d47ltwrk3a7446ygh3egsnsr9lk",
+            "alias": "IDO Vesting contract"
+        },
+        {
+            "address": "neutron1vxfnhwxdpr8gq3e5vkkcq5hsdhagk289458z8m77hgrx3tha252s25j6p4",
+            "alias": "Astroport LP"
+        }
+    ],
+    "ibc": []
+}

@@ -4,18 +4,33 @@
     "network": "WHALE",
     "tokenType": "tokenfactory",
     "tokenDenom": "factory/migaloo1etlu2h30tjvv8rfa4fwdc43c92f6ul5w9acxzk/uguppy",
+    "holderContract": null,
+    "stakingContract": null,
     "exponent": 6,
     "description": "Meme token",
     "logoUrl": "tokens/guppy.jpg",
     "website": "whale.burn.community",
     "twitter": "_ASH_DAO",
-    "telegram": "https://t.me/+QooIWNEfR6c3MmM5",
+    "telegram": "+QooIWNEfR6c3MmM5",
     "telegram2": null,
     "discord": null,
     "coingeckoId": null,
     "status": "active",
-    "knownAddresses": [],
+    "knownAddresses": [
+        {
+            "address": "migaloo16yra8pf3ntm6ljjnja2w046zka3wm68fvd3x08htfdpn2mumqwkst7mllv",
+            "alias": "Guppy LP on White Whale"
+        },
+        {
+            "address": "migaloo1gulcrcp7tphq0yy0a5u2k5uyaez2tfsn9cke4wk2pa0j8e860z8sauasvn",
+            "alias": "Whaley DAO Treasury"
+        }
+    ],
     "ibc": [
-        {"network": "OSMO", "denom": "ibc/42A9553A7770F3D7B62F3A82AF04E7719B4FD6EAF31BE5645092AAC4A6C2201D", "knownAddresses": []}
+        {
+            "network": "OSMO",
+            "denom": "ibc/42A9553A7770F3D7B62F3A82AF04E7719B4FD6EAF31BE5645092AAC4A6C2201D",
+            "knownAddresses": []
+        }
     ]
 }
