@@ -20,6 +20,10 @@
         {
             "address": "inj1dkfpt70kq48tm4emtj6l92gddq0z70jn8cn03g",
             "alias": "Astroport LP"
+        },
+        {
+            "address": "inj1xd5w08ezq4c6eq6cjsy5zqrvtvqf7hpkp3swcw",
+            "alias": "Black Panther AUTISM/INJ Spot Market Making Vault"
         }
     ],
     "ibc": []
