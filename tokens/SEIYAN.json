@@ -1,0 +1,21 @@
+{
+    "name": "Seiyan",
+    "ticker": "SEIYAN",
+    "network": "SEI",
+    "tokenType": "cw20",
+    "tokenDenom": null,
+    "holderContract": "sei1hrndqntlvtmx2kepr0zsfgr7nzjptcc72cr4ppk4yav58vvy7v3s4er8ed",
+    "stakingContract": null,
+    "exponent": 6,
+    "description": "SEIYAN is the main brand coin of SEI Network. Onboard Users. Maximize Memes. Strengthen SEI.",
+    "logoUrl": "https://pbs.twimg.com/profile_images/1737147980497506305/wZXJIKdy_400x400.jpg",
+    "website": "seiyantoken.com",
+    "twitter": "seiyantoken9000",
+    "telegram": "seiyantoken9000",
+    "telegram2": null,
+    "discord": "https://discord.gg/seiyantoken9000",
+    "coingeckoId": "seiyan",
+    "status": "active",
+    "knownAddresses": [],
+    "ibc": []
+}
