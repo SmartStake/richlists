@@ -20,6 +20,10 @@
         {
             "address": "inj15yaw8vpv0vskh5qgpkxnuaq3dyvuzaxtytqhku",
             "alias": "Astroport LP"
+        },
+        {
+            "address": "inj1eswdzx773we5zu2mz0zcmm7l5msr8wcss8ek0f",
+            "alias": "Dojo LP"
         }
     ],
     "ibc": []
