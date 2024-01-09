@@ -16,6 +16,6 @@
     "discord": "https://discord.gg/seiyantoken9000",
     "coingeckoId": "seiyan",
     "status": "active",
-    "knownAddresses": [{"address": "sei1x0f0jyyr55k0xgskg73vxd0zflcx9tgqj3rv4s", "label": "Seiyan Treasury"}],
+    "knownAddresses": [{"address": "sei1x0f0jyyr55k0xgskg73vxd0zflcx9tgqj3rv4s", "alias": "Seiyan Treasury"}],
     "ibc": []
 }
