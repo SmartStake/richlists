@@ -17,6 +17,7 @@
     "coingeckoId": null,
     "status": "active",
     "knownAddresses": [
+        {"address": "neutron1y6s52fuhnqtank3wjfgrkcvcp3t3anw6yj72jtk5alufy6ldwrxsa9nzkj", "alias": "Badcoin Contract"}
     ],
     "ibc": []
 }
