@@ -1,0 +1,22 @@
+{
+    "name": "Badkid",
+    "ticker": "BAD",
+    "network": "NTRN",
+    "tokenType": "tokenfactory",
+    "tokenDenom": "factory/neutron143wp6g8paqasnuuey6zyapucknwy9rhnld8hkr/bad",
+    "holderContract": null,
+    "stakingContract": null,
+    "exponent": 6,
+    "description": "useless meme coins, no roadmap, no team.",
+    "logoUrl": "https://pbs.twimg.com/profile_images/1735077988390334464/hIIRxzVu_400x400.jpg",
+    "website": null,
+    "twitter": "BadkidsCoin",
+    "telegram": null,
+    "telegram2": null,
+    "discord": null,
+    "coingeckoId": null,
+    "status": "active",
+    "knownAddresses": [
+    ],
+    "ibc": []
+}
