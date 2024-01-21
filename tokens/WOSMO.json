@@ -1,0 +1,21 @@
+{
+    "name": "Wosmongton",
+    "ticker": "WOSMO",
+    "network": "OSMO",
+    "tokenType": "tokenfactory",
+    "tokenDenom": "factory/osmo1pfyxruwvtwk00y8z06dh2lqjdj82ldvy74wzm3/WOSMO",
+    "holderContract": null,
+    "stakingContract": null,
+    "exponent": 6,
+    "description": "First native memecoin on Osmosis. A mad scientist with a touch of anarchy $WOSMO",
+    "logoUrl": "https://pbs.twimg.com/profile_images/1746917786994032641/o0W5lywv_400x400.jpg",
+    "website": null,
+    "twitter": "WosmoInu",
+    "telegram": null,
+    "telegram2": null,
+    "discord": null,
+    "coingeckoId": null,
+    "status": "active",
+    "knownAddresses": [],
+    "ibc": []
+}
