@@ -15,5 +15,7 @@
     "telegram2": null,
     "discord": null,
     "coingeckoId": null,
-    "status": "active"
+    "status": "active",
+    "knownAddresses": [],
+    "ibc": []
 }
