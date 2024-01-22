@@ -1,0 +1,41 @@
+{
+    "name": "Circus Coin",
+    "ticker": "CIRCUS",
+    "network": "NTRN",
+    "tokenType": "tokenfactory",
+    "tokenDenom": "factory/neutron170v88vrtnedesyfytuku257cggxc79rd7lwt7q/ucircus",
+    "holderContract": null,
+    "stakingContract": null,
+    "exponent": 6,
+    "description": "Cryptographic Coin AtomEconomicZone69JaeKwonInu ticker is $CIRCUS on Neutron Network",
+    "logoUrl": "https://pbs.twimg.com/profile_images/1667895935572267008/U_s6sBd4_400x400.jpg",
+    "website": "https://aez.finance",
+    "twitter": "clowns9000",
+    "telegram": "https://t.me/circuscosmos",
+    "telegram2": null,
+    "discord": null,
+    "coingeckoId": null,
+    "status": "active",
+    "knownAddresses": [
+      {
+        "address": "neutron18wpdnllkvn7sesuat3y6vtsv92q4v7ff9929jcxp8w2d7kfs3ewsnecrux",
+        "alias": "Astroport Pool - CIRCUS/ATOM - xyk 50/50"
+      }
+    ],
+    "ibc": [
+      {
+        "network": "OSMO",
+        "denom": "ibc/8C8F6349F656C943543C6B040377BE44123D01F712277815C3C13098BB98818C",
+        "knownAddresses": [
+          {
+            "address": "osmo16pef2fvl6gtrr5d040wpp98jnc7kmjkl9zdgxc2rz0zdthr6a9lqsqkpek",
+            "alias": "Pool #1391 - CIRCUS/CDT - xyk 50/50"
+          },
+          {
+            "address": "osmo1rtfdkmdwjpdunv7vlnpynvgn2az8vjpw9xhyyj677sm457lfqwas64l7le",
+            "alias": "Pool #1393 - CIRCUS/OSMO - xyk 50/50"
+          }
+        ]
+      }
+    ]
+  }
