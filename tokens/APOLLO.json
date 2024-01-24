@@ -1,0 +1,21 @@
+{
+    "name": "Apollo",
+    "ticker": "APOLLO",
+    "network": "NTRN",
+    "tokenType": "tokenfactory",
+    "tokenDenom": "factory/neutron154gg0wtm2v4h9ur8xg32ep64e8ef0g5twlsgvfeajqwghdryvyqsqhgk8e/APOLLO",
+    "holderContract": null,
+    "stakingContract": null,
+    "exponent": 6,
+    "description": "Supercharging LSD Yields on Cosmos",
+    "logoUrl": "https://pbs.twimg.com/profile_images/1744343912892792832/eikhbXTN_400x400.jpg",
+    "website": "apollo.farm",
+    "twitter": "ApolloDAO",
+    "telegram": "t.me/apollodao",
+    "telegram2": null,
+    "discord": "https://discord.gg/zNAQgNcHdR",
+    "coingeckoId": "apollo-2",
+    "status": "active",
+    "knownAddresses": [],
+    "ibc": []
+}
