@@ -8,7 +8,7 @@
     "stakingContract": null,
     "exponent": 6,
     "description": "Meme token",
-    "logoUrl": "tokens/ninja.jpg",
+    "logoUrl": "https://raw.githubusercontent.com/cosmos/chain-registry/master/injective/images/ninja.png",
     "website": "https://www.dogwifnunchucks.com/",
     "twitter": "dogwifnunchucks",
     "telegram": "dogwifnunchucks",
@@ -16,6 +16,35 @@
     "discord": null,
     "coingeckoId": "dog-wif-nuchucks",
     "status": "active",
-    "knownAddresses": [],
+    "knownAddresses": [
+        {
+            "address": "inj14vnmw2wee3xtrsqfvpcqg35jg9v7j2vdpzx0kk",
+            "alias": “HELIX Contract”
+        },
+        {
+            "address": "inj187dz9zlxc3zrltzx5756tu7zew6yu3v0tc4a3w",
+            "alias": “Osmosis Relayer”
+        }
+        {
+            "address": "inj1g8ftaglcmyqsang8gwgl7tg2n222x09yf42cm7",
+            "alias": “ASTROPORT XYZ”
+        }
+        {
+            "address": "inj1pzl4sxzay9nrlnnhdslyqf24xp50pmgnn7q3tn",
+            "alias": “ASTROPORT CLP”
+        }
+        {
+            "address": "inj175l9neteeujgnn4gux7spg7247pacm3sr7zz53",
+            "alias": “ASTROPORT LP NINJA-USDT”
+        }
+        {
+            "address": "inj1u59zkd3w3vlv23309adffw9c2g8uuwjchg2d3t",
+            "alias": “ASTROPORT LP NINJA-KIRA”
+        }
+        {
+            "address": "inj1efdrt4s78gffnntlqlhcctu3h0ndsd0nr86edc",
+            "alias": “DOJOSWAP LP NINJA-INJ”
+        }
+    ],
     "ibc": []
 }
