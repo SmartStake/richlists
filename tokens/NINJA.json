@@ -44,10 +44,10 @@
         {
             "address": "inj1efdrt4s78gffnntlqlhcctu3h0ndsd0nr86edc",
             "alias": "DOJOSWAP LP NINJA-INJ"
-        }
+        },
         {
             "address": "inj1ntta4qhansaz5cvswnajz7e7xgzf7pfnguudt4",
-            "alias": “Black Panther Market Making Bot”
+            "alias": "Black Panther Market Making Bot"
         }
     ],
     "ibc": []
