@@ -1,0 +1,23 @@
+{
+    "name": "RETRO",
+    "ticker": "RETRO",
+    "network": "NTRN",
+    "tokenType": "tokenfactory",
+    "tokenDenom": "factory/neutron1t24nc7whl77relnu3taxyg3p66pjyuk82png2y/uretro",
+    "holderContract": null,
+    "stakingContract": null,
+    "exponent": 6,
+    "description": "gamefi, web3 access",
+    "logoUrl": "https://i.ibb.co/rkvTQ5c/rrt.png",
+    "website": null,
+    "twitter": "retrogamesite",
+    "telegram": null,
+    "telegram2": null,
+    "discord": null,
+    "coingeckoId": null,
+    "status": "active",
+    "knownAddresses": [
+        {"address": "neutron16r03vq6fydkfessnevj5vcvzx8f68lswd6pjfswgr8ye73s9t6psnazalp", "alias": "Retro Contract"}
+    ],
+    "ibc": []
+}
