@@ -1,0 +1,23 @@
+{
+    "name": "Dinosaur",
+    "ticker": "DSR",
+    "network": "NTRN",
+    "tokenType": "tokenfactory",
+    "tokenDenom": "factory/neutron1guar6dc2scpxtmmq8reh0q5cv2l37vs0uyfdru/dinosaur",
+    "holderContract": null,
+    "stakingContract": null,
+    "exponent": 6,
+    "description": "meme coins",
+    "logoUrl": "https://i.ibb.co/Qvx8nhT/DSR.png",
+    "website": null,
+    "twitter": "dinosaurgamelol",
+    "telegram": null,
+    "telegram2": null,
+    "discord": null,
+    "coingeckoId": null,
+    "status": "active",
+    "knownAddresses": [
+        {"address": "neutron1926qqec0y8gw9x43etcxe369njza7vfjy3j0s9wzeh972hpv2mtsdplm00", "alias": "DSR Contract"}
+    ],
+    "ibc": []
+}
