@@ -1,31 +1,30 @@
-{	
-"name":	"ASH",
-"ticker":	"ASH",
-"network":	"WHALE",
-"tokenType":	"tokenfactory",
-"tokenDenom":	"factory/migaloo1erul6xyq0gk6ws98ncj7lnq9l4jn4gnnu9we73gdz78yyl2lr7qqrvcgup/ash",
-"holderContract":	null,
-"stakingContract":	null,
-"exponent":	6,
-"description":	"WHALE burn derivative",
-"logoUrl":	null,
-"website":	"whale.burn.community",
-"twitter":	"_ASH_DAO",
-"telegram":	null,
-"telegram2":	null,
-"discord":	null,
-"coingeckoId":	null,
-"status":	"active",
-
-"knownAddresses": [
-    {
-        "address": "migaloo16yra8pf3ntm6ljjnja2w046zka3wm68fvd3x08htfdpn2mumqwkst7mllv",
-        "alias": "GUPPY-ASH POOL"
-    },
-    {
-        "address": "migaloo1u4npx7xvprwanpru7utv8haq99rtfmdzzw6p3hpfc38n7zmzm42q8ydga3",
-        "alias": "ASH-WHALE POOL"
-    }
-    
-],
+{
+    "name": "ASH",
+    "ticker": "ASH",
+    "network": "WHALE",
+    "tokenType": "tokenfactory",
+    "tokenDenom": "factory/migaloo1erul6xyq0gk6ws98ncj7lnq9l4jn4gnnu9we73gdz78yyl2lr7qqrvcgup/ash",
+    "holderContract": null,
+    "stakingContract": null,
+    "exponent": 6,
+    "description": "WHALE burn derivative",
+    "logoUrl": null,
+    "website": "whale.burn.community",
+    "twitter": "_ASH_DAO",
+    "telegram": null,
+    "telegram2": null,
+    "discord": null,
+    "coingeckoId": null,
+    "status": "active",
+    "knownAddresses": [
+        {
+            "address": "migaloo16yra8pf3ntm6ljjnja2w046zka3wm68fvd3x08htfdpn2mumqwkst7mllv",
+            "alias": "GUPPY-ASH POOL"
+        },
+        {
+            "address": "migaloo1u4npx7xvprwanpru7utv8haq99rtfmdzzw6p3hpfc38n7zmzm42q8ydga3",
+            "alias": "ASH-WHALE POOL"
+        }
+    ],
+    "ibc": []
 }
