@@ -1,21 +1,42 @@
 {
-    "name": "Talis Protocol",
-    "ticker": "TALIS",
-    "network": "INJ",
-    "tokenType": "tokenfactory",
-    "tokenDenom": "factory/inj1maeyvxfamtn8lfyxpjca8kuvauuf2qeu6gtxm3/Talis",
-    "holderContract": null,
-    "stakingContract": null,
-    "exponent": 6,
-    "description": "The NFT marketplace that empowers artists and bridges physical & digital art on the Terra and Juno blockchain.",
-    "logoUrl": "terra/talis.jpg",
-    "website": "talis.art",
-    "twitter": "ProtocolTalis",
-    "telegram": "talisprotocol",
-    "telegram2": null,
-    "discord": "https://discord.com/invite/pgxEttXaZa",
-    "coingeckoId": "talis-protocol",
-    "status": "active",
-    "knownAddresses": [],
-    "ibc": []
+  "name": "Talis Protocol",
+  "ticker": "TALIS",
+  "network": "INJ",
+  "tokenType": "tokenfactory",
+  "tokenDenom": "factory/inj1maeyvxfamtn8lfyxpjca8kuvauuf2qeu6gtxm3/Talis",
+  "holderContract": null,
+  "stakingContract": null,
+  "exponent": 6,
+  "description": "The NFT marketplace that empowers artists and bridges physical & digital art on the Terra and Juno blockchain.",
+  "logoUrl": "terra/talis.jpg",
+  "website": "injective.talis.art",
+  "twitter": "ProtocolTalis",
+  "telegram": "talisprotocol",
+  "telegram2": null,
+  "discord": "https://discord.com/invite/pgxEttXaZa",
+  "coingeckoId": "talis-protocol",
+  "status": "active",
+  "knownAddresses": [
+    {
+      "address": "inj1hm7udlfzlq679wvj3vk4e7wzg35ssfseff2uug",
+      "alias": "TALIS master multisig"
+    },
+    {
+      "address": "inj1nt9s0lmu2h36ta7tq49n0jyhlrdu8mr78v4g8v",
+      "alias": "Private/Seed multisig"
+    },
+    {
+      "address": "inj17uljr4lfkklc0ucq8rt5zr5v0fkffzda8r5p05",
+      "alias": "Public sale multisig"
+    },
+    {
+      "address": "inj1usdm85qmk9aay43vd4q7q68le4jd32myxyve7m",
+      "alias": "Reserve multisig"
+    },
+    {
+      "address": "inj1q7s0d0sxukuxr3s4vjqhvk43t2gsrktf8z8z48",
+      "alias": "Partnership multisig"
+    }
+  ],
+  "ibc": []
 }
