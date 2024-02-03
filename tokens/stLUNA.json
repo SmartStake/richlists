@@ -1,0 +1,21 @@
+{
+    "name": "Stride Staked Luna",
+    "ticker": "stLUNA",
+    "network": "STRD",
+    "tokenType": "native",
+    "tokenDenom": "stuluna",
+    "holderContract": null,
+    "stakingContract": null,
+    "exponent": 6,
+    "description": null,
+    "logoUrl": "terra/terrav2.png",
+    "website": null,
+    "twitter": null,
+    "telegram": null,
+    "telegram2": null,
+    "discord": null,
+    "coingeckoId": "stride-staked-luna",
+    "status": "active",
+    "knownAddresses": [],
+    "ibc": []
+}

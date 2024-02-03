@@ -1,0 +1,21 @@
+{
+    "name": "Stride Staked Injective",
+    "ticker": "stINJ",
+    "network": "STRD",
+    "tokenType": "native",
+    "tokenDenom": "stinj",
+    "holderContract": null,
+    "stakingContract": null,
+    "exponent": 18,
+    "description": null,
+    "logoUrl": "projects/chains/injective.jpg",
+    "website": null,
+    "twitter": null,
+    "telegram": null,
+    "telegram2": null,
+    "discord": null,
+    "coingeckoId": "stride-staked-injective",
+    "status": "active",
+    "knownAddresses": [],
+    "ibc": []
+}

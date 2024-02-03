@@ -1,0 +1,21 @@
+{
+    "name": "Stride Staked Comdex",
+    "ticker": "stCMDX",
+    "network": "STRD",
+    "tokenType": "native",
+    "tokenDenom": "stucmdx",
+    "holderContract": null,
+    "stakingContract": null,
+    "exponent": 6,
+    "description": null,
+    "logoUrl": "others/comdex.png",
+    "website": null,
+    "twitter": null,
+    "telegram": null,
+    "telegram2": null,
+    "discord": null,
+    "coingeckoId": "stride-staked-comdex",
+    "status": "active",
+    "knownAddresses": [],
+    "ibc": []
+}

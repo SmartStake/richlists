@@ -1,0 +1,21 @@
+{
+    "name": "Stride Staked dYdX",
+    "ticker": "stDYDX",
+    "network": "STRD",
+    "tokenType": "native",
+    "tokenDenom": "stadydx",
+    "holderContract": null,
+    "stakingContract": null,
+    "exponent": 18,
+    "description": null,
+    "logoUrl": "chains/dydx.png",
+    "website": null,
+    "twitter": null,
+    "telegram": null,
+    "telegram2": null,
+    "discord": null,
+    "coingeckoId": "stride-staked-dydx",
+    "status": "active",
+    "knownAddresses": [],
+    "ibc": []
+}

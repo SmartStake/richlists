@@ -1,0 +1,21 @@
+{
+    "name": "Stride Staked Stars",
+    "ticker": "stSTARS",
+    "network": "STRD",
+    "tokenType": "native",
+    "tokenDenom": "stustars",
+    "holderContract": null,
+    "stakingContract": null,
+    "exponent": 6,
+    "description": null,
+    "logoUrl": "projects/stargaze.jpg",
+    "website": null,
+    "twitter": null,
+    "telegram": null,
+    "telegram2": null,
+    "discord": null,
+    "coingeckoId": "stride-staked-stars",
+    "status": "active",
+    "knownAddresses": [],
+    "ibc": []
+}

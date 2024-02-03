@@ -1,0 +1,21 @@
+{
+    "name": "Stride Staked Juno",
+    "ticker": "stJUNO",
+    "network": "STRD",
+    "tokenType": "native",
+    "tokenDenom": "stujuno",
+    "holderContract": null,
+    "stakingContract": null,
+    "exponent": 6,
+    "description": null,
+    "logoUrl": "projects/chains/juno.png",
+    "website": null,
+    "twitter": null,
+    "telegram": null,
+    "telegram2": null,
+    "discord": null,
+    "coingeckoId": "stride-staked-juno",
+    "status": "active",
+    "knownAddresses": [],
+    "ibc": []
+}

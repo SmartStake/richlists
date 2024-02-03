@@ -1,0 +1,21 @@
+{
+    "name": "Stride Staked Umee",
+    "ticker": "stUMEE",
+    "network": "STRD",
+    "tokenType": "native",
+    "tokenDenom": "stuumee",
+    "holderContract": null,
+    "stakingContract": null,
+    "exponent": 18,
+    "description": null,
+    "logoUrl": "https://pbs.twimg.com/profile_images/1729270723750092800/GfNf71Qd_400x400.jpg",
+    "website": null,
+    "twitter": null,
+    "telegram": null,
+    "telegram2": null,
+    "discord": null,
+    "coingeckoId": "stride-staked-umee",
+    "status": "active",
+    "knownAddresses": [],
+    "ibc": []
+}

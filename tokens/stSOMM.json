@@ -1,0 +1,21 @@
+{
+    "name": "Stride Staked Sommelier",
+    "ticker": "stSOMM",
+    "network": "STRD",
+    "tokenType": "native",
+    "tokenDenom": "stusomm",
+    "holderContract": null,
+    "stakingContract": null,
+    "exponent": 6,
+    "description": null,
+    "logoUrl": "https://pbs.twimg.com/profile_images/1515220591686692872/QPSVppoA_400x400.png",
+    "website": null,
+    "twitter": null,
+    "telegram": null,
+    "telegram2": null,
+    "discord": null,
+    "coingeckoId": "stride-staked-sommelier",
+    "status": "active",
+    "knownAddresses": [],
+    "ibc": []
+}
