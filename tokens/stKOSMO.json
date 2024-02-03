@@ -1,0 +1,21 @@
+{
+    "name": "pStake Staked Osmosis",
+    "ticker": "stkOSMO",
+    "network": "XPRT",
+    "tokenType": "native",
+    "tokenDenom": "stk/uosmo",
+    "holderContract": null,
+    "stakingContract": null,
+    "exponent": 6,
+    "description": null,
+    "logoUrl": "projects/chains/osmosis.jpg",
+    "website": null,
+    "twitter": null,
+    "telegram": null,
+    "telegram2": null,
+    "discord": null,
+    "coingeckoId": "pstake-staked-osmo",
+    "status": "active",
+    "knownAddresses": [],
+    "ibc": []
+}
