@@ -1,0 +1,21 @@
+{
+    "name": "Stride Staked Celestia",
+    "ticker": "stTIA",
+    "network": "STRD",
+    "tokenType": "native",
+    "tokenDenom": "stutia",
+    "holderContract": null,
+    "stakingContract": null,
+    "exponent": 6,
+    "description": null,
+    "logoUrl": "chains/celestia.png",
+    "website": null,
+    "twitter": null,
+    "telegram": null,
+    "telegram2": null,
+    "discord": null,
+    "coingeckoId": "stride-staked-tia",
+    "status": "active",
+    "knownAddresses": [],
+    "ibc": []
+}
