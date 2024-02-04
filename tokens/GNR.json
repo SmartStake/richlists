@@ -1,6 +1,6 @@
 {
     "name": "GoldenRules",
-    "ticker": "$GNR",
+    "ticker": "GNR",
     "network": "SEI",
     "tokenType": "tokenfactory",
     "tokenDenom": "factory/sei1vrz7ndadkf6gwanf6ccy2d2v706yzrx2957fjd/GOLDENRULES",
