@@ -1,0 +1,23 @@
+{
+    "name": "GoldenRules",
+    "ticker": "GNR",
+    "network": "SEI",
+    "tokenType": "tokenfactory",
+    "tokenDenom": "factory/sei1vrz7ndadkf6gwanf6ccy2d2v706yzrx2957fjd/GOLDENRULES",
+    "holderContract": null,
+    "stakingContract": null,
+    "exponent": 6,
+    "description": "meme coins",
+    "logoUrl": "https://i.ibb.co/HX9R8kP/gnr.png",
+    "website": null,
+    "twitter": null,
+    "telegram": null,
+    "telegram2": null,
+    "discord": null,
+    "coingeckoId": null,
+    "status": "active",
+    "knownAddresses": [
+        {"address": "sei1qyemc2lppaqtsedqh54erdgzq4x7pa6eqmfsln5x6ryj0s8qz6hql3ne48", "alias": "GNR Contract"}
+    ],
+    "ibc": []
+}
