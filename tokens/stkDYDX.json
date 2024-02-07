@@ -1,0 +1,21 @@
+{
+    "name": "pStake Staked DYDX",
+    "ticker": "stkDYDX",
+    "network": "XPRT",
+    "tokenType": "native",
+    "tokenDenom": "stk/adydx",
+    "holderContract": null,
+    "stakingContract": null,
+    "exponent": 18,
+    "description": null,
+    "logoUrl": "chains/dydx.png",
+    "website": null,
+    "twitter": null,
+    "telegram": null,
+    "telegram2": null,
+    "discord": null,
+    "coingeckoId": null,
+    "status": "active",
+    "knownAddresses": [],
+    "ibc": []
+}
