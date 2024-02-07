@@ -1,0 +1,23 @@
+{
+    "name": "NTRL",
+    "ticker": "NTRL",
+    "network": "NEUTRON",
+    "tokenType": "tokenfactory",
+    "tokenDenom": "factory/neutron1ume2n42r5j0660gegrr28fzdze7aqf7r5cd9y6/newtroll",
+    "holderContract": null,
+    "stakingContract": null,
+    "exponent": 6,
+    "description": "meme coins",
+    "logoUrl": "https://i.ibb.co/qCrbY02/newtroll.png",
+    "website": null,
+    "twitter": null,
+    "telegram": null,
+    "telegram2": null,
+    "discord": null,
+    "coingeckoId": null,
+    "status": "active",
+    "knownAddresses": [
+        {"address": "neutron1hptk0k5kng7hjy35vmh009qd5m6l33609nypgf2yc6nqnewduqasxplt4e", "alias": "NTRL Contract"}
+    ],
+    "ibc": []
+}
