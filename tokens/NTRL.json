@@ -1,7 +1,7 @@
 {
     "name": "NTRL",
     "ticker": "NTRL",
-    "network": "NEUTRON",
+    "network": "NTRN",
     "tokenType": "tokenfactory",
     "tokenDenom": "factory/neutron1ume2n42r5j0660gegrr28fzdze7aqf7r5cd9y6/newtroll",
     "holderContract": null,
