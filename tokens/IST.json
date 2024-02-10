@@ -18,6 +18,15 @@
     "status": "active",
     "knownAddresses": [],
     "ibc": [
-        {"network": "OSMO", "denom": "ibc/92BE0717F4678905E53F4E45B2DED18BC0CB97BF1F8B6A25AFEDF3D5A879B4D5", "knownAddresses": []}
+        {
+            "network": "OSMO",
+            "denom": "ibc/92BE0717F4678905E53F4E45B2DED18BC0CB97BF1F8B6A25AFEDF3D5A879B4D5",
+            "knownAddresses": []
+        },
+        {
+            "network": "UMEE",
+            "denom": "ibc/BA460328D9ABA27E643A924071FDB3836E4CE8084C6D2380F25EFAB85CF8EB11",
+            "knownAddresses": []
+        }
     ]
 }
