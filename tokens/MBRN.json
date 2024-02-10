@@ -8,7 +8,7 @@
     "stakerContract": null,
     "exponent": 6,
     "description": "DAO token for the CDT stablecoin protocol",
-    "logoUrl": "https://assets.coingecko.com/coins/images/32875/standard/MBRN-logo-template_%281%29.png",
+    "logoUrl": "tokens/membrane.png",
     "website": "https://membrane-landing.vercel.app/",
     "twitter": "insaneinthembrn",
     "telegram": null,
