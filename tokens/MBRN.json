@@ -8,19 +8,19 @@
     "stakerContract": null,
     "exponent": 6,
     "description": "DAO token for the CDT stablecoin protocol",
-    "logoUrl": "https://assets.coingecko.com/coins/images/32875/standard/MBRN-logo-template_%281%29.png?1699704870",
+    "logoUrl": "https://assets.coingecko.com/coins/images/32875/standard/MBRN-logo-template_%281%29.png",
     "website": "https://membrane-landing.vercel.app/",
     "twitter": "insaneinthembrn",
     "telegram": null,
     "telegram2": null,
     "discord": "https://discord.gg/ksT6cdHpbV",
     "coingeckoId": "membrane",
-    "status": "active"
+    "status": "active",
     "knownAddresses": [
         {
             "address": "osmo1fty83rfxqs86jm5fmlql5e340e8pe0v9j8ez0lcc6zwt2amegwvsfp3gxj",
             "alias": "Membrane Staking"
-        },
+        }
     ],
-    "ibc": [],
+    "ibc": []
 }
