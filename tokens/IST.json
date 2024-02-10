@@ -1,0 +1,21 @@
+{
+    "name": "IST",
+    "ticker": "IST",
+    "network": "BLD",
+    "tokenType": "native",
+    "tokenDenom": "uist",
+    "holderContract": null,
+    "stakingContract": null,
+    "exponent": 6,
+    "description": null,
+    "logoUrl": "https://assets.coingecko.com/coins/images/28273/standard/Copy_of_07-Inter-Protocol-logo-symbol-color_200x200.png",
+    "website": "inter.trade",
+    "twitter": "inter_protocol",
+    "telegram": null,
+    "telegram2": null,
+    "discord": "https://inter.trade/discord",
+    "coingeckoId": "inter-stable-token",
+    "status": "active",
+    "knownAddresses": [],
+    "ibc": []
+}
