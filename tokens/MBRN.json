@@ -20,6 +20,14 @@
         {
             "address": "osmo1fty83rfxqs86jm5fmlql5e340e8pe0v9j8ez0lcc6zwt2amegwvsfp3gxj",
             "alias": "Membrane Staking"
+        },
+        {
+            "address": "osmo1z6hhq4rugh22jeq9lx9py5dxctj2qq3jdrnhfdlr2nhmru4dzfzsejfpdp",
+            "alias": "MBRN/OSMO Pool 1225"
+        },
+        {
+            "address": "osmo1krxwf5e308jmclyhfd9u92kp369l083wequge6",
+            "alias": "Osmosis Module Account - Incentives"
         }
     ],
     "ibc": []
