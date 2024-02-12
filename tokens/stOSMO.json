@@ -17,5 +17,11 @@
     "coingeckoId": "stride-staked-osmo",
     "status": "active",
     "knownAddresses": [],
-    "ibc": []
+    "ibc": [
+        {
+            "network": "BLD",
+            "denom": "ibc/DDAB71B9D194CBF3B87DD6924B3B4846F14061289FCBA8A3989B6F8230BC0F05",
+            "knownAddresses": []
+        }
+    ]
 }
