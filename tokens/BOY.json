@@ -4,7 +4,7 @@
     "network": "NEUTRON",
     "tokenType": "cw20",
     "tokenDenom": "null",
-    "holderContract": neutron1uqvse8fdrd9tam47f2jhy9m6al6xxtqpc83f9pdnz5gdle4swc0spfnctv,
+    "holderContract": "neutron1uqvse8fdrd9tam47f2jhy9m6al6xxtqpc83f9pdnz5gdle4swc0spfnctv",
     "stakingContract": null,
     "exponent": 6,
     "description": "meme coins",
