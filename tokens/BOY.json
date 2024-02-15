@@ -3,7 +3,7 @@
     "ticker": "BOY",
     "network": "NEUTRON",
     "tokenType": "cw20",
-    "tokenDenom": "neutron1uqvse8fdrd9tam47f2jhy9m6al6xxtqpc83f9pdnz5gdle4swc0spfnctv",
+    "tokenDenom": "null",
     "holderContract": null,
     "stakingContract": null,
     "exponent": 6,
