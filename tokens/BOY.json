@@ -1,7 +1,7 @@
 {
     "name": "Astro BOY",
     "ticker": "BOY",
-    "network": "NEUTRON",
+    "network": "NTRN",
     "tokenType": "cw20",
     "tokenDenom": "null",
     "holderContract": "neutron1uqvse8fdrd9tam47f2jhy9m6al6xxtqpc83f9pdnz5gdle4swc0spfnctv",
