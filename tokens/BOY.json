@@ -2,7 +2,7 @@
     "name": "Astro BOY",
     "ticker": "BOY",
     "network": "NEUTRON",
-    "tokenType": "tokenfactory",
+    "tokenType": "cw20",
     "tokenDenom": "neutron1uqvse8fdrd9tam47f2jhy9m6al6xxtqpc83f9pdnz5gdle4swc0spfnctv",
     "holderContract": null,
     "stakingContract": null,
