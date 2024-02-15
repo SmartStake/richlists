@@ -1,0 +1,34 @@
+{
+    "name": "Membrane",
+    "ticker": "MBRN",
+    "network": "OSMO",
+    "tokenType": "tokenfactory",
+    "tokenDenom": "factory/osmo1s794h9rxggytja3a4pmwul53u98k06zy2qtrdvjnfuxruh7s8yjs6cyxgd/umbrn",
+    "holderContract": null,
+    "stakerContract": null,
+    "exponent": 6,
+    "description": "DAO token for the CDT stablecoin protocol",
+    "logoUrl": "tokens/membrane.png",
+    "website": "https://membrane-landing.vercel.app/",
+    "twitter": "insaneinthembrn",
+    "telegram": null,
+    "telegram2": null,
+    "discord": "https://discord.gg/ksT6cdHpbV",
+    "coingeckoId": "membrane",
+    "status": "active",
+    "knownAddresses": [
+        {
+            "address": "osmo1fty83rfxqs86jm5fmlql5e340e8pe0v9j8ez0lcc6zwt2amegwvsfp3gxj",
+            "alias": "Membrane Staking"
+        },
+        {
+            "address": "osmo1z6hhq4rugh22jeq9lx9py5dxctj2qq3jdrnhfdlr2nhmru4dzfzsejfpdp",
+            "alias": "MBRN/OSMO Pool 1225"
+        },
+        {
+            "address": "osmo1krxwf5e308jmclyhfd9u92kp369l083wequge6",
+            "alias": "Osmosis Module Account - Incentives"
+        }
+    ],
+    "ibc": []
+}

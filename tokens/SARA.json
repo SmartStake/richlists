@@ -1,0 +1,21 @@
+{
+    "name": "Pulsara",
+    "ticker": "SARA",
+    "network": "CORE",
+    "tokenType": "native",
+    "tokenDenom": "usara-core1r9gc0rnxnzpq33u82f44aufgdwvyxv4wyepyck98m9v2pxua6naqr8h03z",
+    "holderContract": null,
+    "stakingContract": null,
+    "exponent": 6,
+    "description": null,
+    "logoUrl": "https://pbs.twimg.com/profile_images/1742333493474971648/NlLr7-AH_400x400.jpg",
+    "website": "kujira.app",
+    "twitter": "pulsara_io",
+    "telegram": "pulsara_io",
+    "telegram2": null,
+    "discord": null,
+    "coingeckoId": "pulsara",
+    "status": "active",
+    "knownAddresses": [],
+    "ibc": []
+}
