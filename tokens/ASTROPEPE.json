@@ -1,0 +1,26 @@
+{
+    "name": "ASTROPEPE",
+    "ticker": "ASTROPEPE",
+    "network": "NTRN",
+    "tokenType": "tokenfactory",
+    "tokenDenom": "factory/neutron14henrqx9y328fjrdvz6l6d92r0t7g5hk86q5nd/uastropepe",
+    "holderContract": null,
+    "stakingContract": null,
+    "exponent": 6,
+    "description": "Meme token",
+    "logoUrl": "https://app.astroport.fi/tokens/generated/astropepe.png",
+    "website": "https://astropepe.me/",
+    "twitter": "@astropepe_fi",
+    "telegram": null,
+    "telegram2": null,
+    "discord": null,
+    "coingeckoId": null,
+    "status": "active",
+    "knownAddresses": [
+        {
+            "address": "neutron1tx7vhpvd5yjscf3nurxxpn695la9ka6f8zezgrnl7y4lsvemccsqwc3lz3",
+            "alias": "Astroport USDC.axl pool"
+        }
+    ],
+    "ibc": []
+
