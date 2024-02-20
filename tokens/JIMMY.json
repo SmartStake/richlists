@@ -1,0 +1,26 @@
+{
+    "name": "JIMMY",
+    "ticker": "JIMMY",
+    "network": "NTRN",
+    "tokenType": "tokenfactory",
+    "tokenDenom": "factory/neutron108x7vp9zv22d6wxrs9as8dshd3pd5vsga463yd/JIMMY",
+    "holderContract": null,
+    "stakingContract": null,
+    "exponent": 6,
+    "description": "Meme token",
+    "logoUrl": "tokens/jimmy.png",
+    "website": null,
+    "twitter": null,
+    "telegram": null,
+    "telegram2": null,
+    "discord": null,
+    "coingeckoId": null,
+    "status": "active",
+    "knownAddresses": [
+        {
+            "address": "neutron1gy8hpzwdqgq8m9ua5486wjw4377jer53qf3vnt5qdflvcrszdq8q8cfk3a",
+            "alias": "Astroport NEWT pool"
+        }
+    ],
+    "ibc": []
+}
