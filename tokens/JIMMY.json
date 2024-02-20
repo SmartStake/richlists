@@ -20,6 +20,10 @@
         {
             "address": "neutron1gy8hpzwdqgq8m9ua5486wjw4377jer53qf3vnt5qdflvcrszdq8q8cfk3a",
             "alias": "Astroport NEWT pool"
+        },
+        {
+            "address": "neutron1qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqhufaa6",
+            "alias": "Neutron Burn"
         }
     ],
     "ibc": []
