@@ -8,7 +8,7 @@
     "stakingContract": null,
     "exponent": 6,
     "description": "Meme token",
-    "logoUrl": "tokens/jimmy.png",
+    "logoUrl": "https://app.astroport.fi/tokens/generated/jimmy.png",
     "website": null,
     "twitter": null,
     "telegram": null,
