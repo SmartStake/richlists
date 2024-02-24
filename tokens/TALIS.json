@@ -19,7 +19,7 @@
   "knownAddresses": [
     {
       "address": "inj1hm7udlfzlq679wvj3vk4e7wzg35ssfseff2uug",
-      "alias": "TALIS flow multisig"
+      "alias": "Flow multisig"
     },
     {
       "address": "inj1nt9s0lmu2h36ta7tq49n0jyhlrdu8mr78v4g8v",
@@ -51,7 +51,7 @@
     },
     {
       "address": "inj1qsjly2l9wdt9q9xkr92k68dkexnuelcy5rzsmf",
-      "alias": "Talis governance contract"
+      "alias": "Governance contract"
     }
   ],
   "ibc": []
