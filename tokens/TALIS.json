@@ -19,7 +19,7 @@
   "knownAddresses": [
     {
       "address": "inj1hm7udlfzlq679wvj3vk4e7wzg35ssfseff2uug",
-      "alias": "TALIS master multisig"
+      "alias": "TALIS flow multisig"
     },
     {
       "address": "inj1nt9s0lmu2h36ta7tq49n0jyhlrdu8mr78v4g8v",
@@ -36,6 +36,22 @@
     {
       "address": "inj1q7s0d0sxukuxr3s4vjqhvk43t2gsrktf8z8z48",
       "alias": "Partnership multisig"
+    },
+    {
+      "address": "inj163r8dsn0tdgykl4d5hmsx7zaapyu53m4t9sjkr",
+      "alias": "Vesting contract team"
+    },
+    {
+      "address": "inj1ff2z0ymcl0s40eyjnv5g52g8gj9s5pw3mz5fh2",
+      "alias": "Vesting contract private sale"
+    },
+    {
+      "address": "inj1vup0slh30rx4jwcrwdj7xhvjuktzxyf04pvrzd",
+      "alias": "Vesting contract seed"
+    },
+    {
+      "address": "inj1qsjly2l9wdt9q9xkr92k68dkexnuelcy5rzsmf",
+      "alias": "Talis governance contract"
     }
   ],
   "ibc": []
