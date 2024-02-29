@@ -1,0 +1,21 @@
+{
+    "name": "Bitmos",
+    "ticker": "BMOS",
+    "network": "LUNA",
+    "tokenType": "cw20",
+    "tokenDenom": null,
+    "holderContract": "terra1jepte9nuw7l7dyvywmw8extmf7qf5vwaaxeujnajayhqp7tdxtjsm0krs6",
+    "stakingContract": "terra1gl0cxwd34zaed0vd04fjqt04x55xl0pc0sctnpyjsz6uyn7m4mls6rwjx7",
+    "exponent": 6,
+    "description": "Bitmos opens doors for BRC20 tokens to thrive alongside established players in the Cosmos Network, revolutionizing decentralized finance (DeFi) for all.",
+    "logoUrl": "https://raw.githubusercontent.com/bitmos-io/data/main/logos/telegram_twitter_banner.png",
+    "website": "https://bitmos.io/",
+    "twitter": "_bitmos_",
+    "telegram": "https://t.me/bitmos_community",
+    "telegram2": null,
+    "discord": null,
+    "coingeckoId": null,
+    "status": "active",
+    "knownAddresses": [],
+    "ibc": []
+}
