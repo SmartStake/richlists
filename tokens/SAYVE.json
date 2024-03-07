@@ -5,7 +5,7 @@
     "tokenType": "cw20",
     "tokenDenom": null,
     "holderContract": "terra1xp9hrhthzddnl7j5du83gqqr4wmdjm5t0guzg9jp6jwrtpukwfjsjgy4f3",
-    "stakingContract": "terra16zc783wt2w5lvlt9u4as977lt39c3se427akkenrzyax5vtde70qa89ukv",
+    "stakingContract": "terra1yurlqz3meyn45d5cj2w7zy8m8hzy96wegnlsqmq800xqvmpdgj5ss3wm7z",
     "exponent": 6,
     "description": "Sayve is a savings and earning protocol built on the Terra Blockchain, with an AI-powered Learn to Earn mechanism.",
     "logoUrl": "terra/savye.png",
@@ -16,6 +16,37 @@
     "discord": null,
     "coingeckoId": "sayve-protocol",
     "status": "active",
-    "knownAddresses": [],
-    "ibc": []
+    "knownAddresses": [{
+            "address": "terra1r2d7lme40eakll2wj8c68zawdu6nfkh7m0qfgk",
+            "alias": "Team"
+        },
+         {
+            "address": "terra1tk6s7njelq2wzx6n4jg3043pep9wvfjqftlyhm",
+            "alias": "Partners"
+        },
+          {
+            "address": "terra17nwgfpcaml7hslyug72rdpfgnrcsgcf9g9kc0k",
+            "alias": "Incentives and LP rewards"
+        },
+        {
+            "address": "terra1qmrdtv4syax4gh5krvct0td5cc7ers600d7s09",
+            "alias": "Community"
+        } 
+    ],
+    "ibc": [ {
+            "network": "KUJI",
+            "denom": "ibc/BFDEE4E7F0E8371F195C2A6CFB70E54C18361E475FC26BE3A38B36E55FCEFDD6",
+            "knownAddresses": []
+        },
+        {
+            "network": "MIGALOO",
+            "denom": " ibc/106B438A78C581C5291E114B21588C41F98532E04D5369CFEE5825D95D465278",
+            "knownAddresses": []
+        },
+         {
+            "network": "OSMO",
+            "denom": "ibc/06EF575844982382F4D1BC3830D294557A30EDB3CD223153AFC8DFEF06349C56",
+            "knownAddresses": []
+        }
+    ]
 }
