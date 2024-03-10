@@ -26,7 +26,7 @@
         }],
     "ibc": [
          {
-            "network": "INJECTIVE",
+            "network": "INJ",
             "denom": "ibc/D9353C3B1407A7F7FE0A5CCB7D06249B57337888C95C6648AEAF2C83F4F3074E",
             "knownAddresses": []
         },
@@ -36,7 +36,7 @@
             "knownAddresses": []
         },
         {
-            "network": "MIGALOO",
+            "network": "WHALE",
             "denom": "ibc/C158F1510B7C5FA14F728752F1518219959BF6A7025DAC66E12FCE10A27EA8BE",
             "knownAddresses": []
         },
