@@ -40,7 +40,7 @@
         },
         {
             "network": "WHALE",
-            "denom": " ibc/106B438A78C581C5291E114B21588C41F98532E04D5369CFEE5825D95D465278",
+            "denom": "ibc/106B438A78C581C5291E114B21588C41F98532E04D5369CFEE5825D95D465278",
             "knownAddresses": []
         },
          {
