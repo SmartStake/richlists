@@ -5,7 +5,7 @@
     "tokenType": "cw20",
     "tokenDenom": null,
     "holderContract": "terra1sxe8u2hjczlekwfkcq0rs28egt38pg3wqzfx4zcrese4fnvzzupsk9gjkq",
-    "stakingContract": null,
+    "stakingContract": "terra1v2jn9cdxzv7xf7c262nt69pgk8httfe70t5pf82w4hmyhs8zrdsq047n38",
     "exponent": 6,
     "description": "Bitmos opens doors for BRC20 tokens to thrive alongside established players in the Cosmos Network, revolutionizing decentralized finance (DeFi) for all.",
     "logoUrl": "https://raw.githubusercontent.com/bitmos-io/data/main/logos/telegram_twitter_banner.png",
@@ -16,6 +16,34 @@
     "discord": null,
     "coingeckoId": null,
     "status": "active",
-    "knownAddresses": [],
-    "ibc": []
+    "knownAddresses": [{
+            "address": "terra1v2jn9cdxzv7xf7c262nt69pgk8httfe70t5pf82w4hmyhs8zrdsq047n38",
+            "alias": "Total Amount Staked"
+        },
+        {
+            "address": "terra1ksk66lcvzwaanc47nvn3athj4yzcpay8z8ru04",
+            "alias": "BMOS/axlUSDC Astroport Pair"
+        }],
+    "ibc": [
+         {
+            "network": "INJ",
+            "denom": "ibc/D9353C3B1407A7F7FE0A5CCB7D06249B57337888C95C6648AEAF2C83F4F3074E",
+            "knownAddresses": []
+        },
+        {
+            "network": "KUJI",
+            "denom": "ibc/AF371F507606449381F82454241BF562E742312BE5744B08AF66D8840C12A5C6",
+            "knownAddresses": []
+        },
+        {
+            "network": "WHALE",
+            "denom": "ibc/C158F1510B7C5FA14F728752F1518219959BF6A7025DAC66E12FCE10A27EA8BE",
+            "knownAddresses": []
+        },
+        {
+            "network": "OSMO",
+            "denom": "ibc/7D389F0ABF1E4D45BE6D7BBE36A2C50EA0559C01E076B02F8E381E685EC1F942",
+            "knownAddresses": []
+        }
+    ]
 }
