@@ -6,7 +6,7 @@
     "tokenDenom": "stk/ustars",
     "holderContract": null,
     "stakingContract": null,
-    "exponent": 18,
+    "exponent": 6,
     "description": null,
     "logoUrl": "chains/stargaze.jpg",
     "website": null,
