@@ -1,0 +1,23 @@
+{
+    "name": "Oozaru",
+    "ticker": "OOZARU",
+    "network": "SEI",
+    "tokenType": "cw20",
+    "tokenDenom": null,
+    "holderContract": "sei1wlf9j5uv50rcg0u5j6xk00px5tflptzprj39keck27eg8g7qd7hqq6kvda",
+    "stakingContract": null,
+    "exponent": 6,
+    "description": "OOZARU #2 - the community coin of SEI",
+    "logoUrl": "https://i.ibb.co/LYZPdXb/oozaru.png",
+    "website": "oozaru.monster",
+    "twitter": "https://twitter.com/oozaru9000",
+    "telegram": "https://t.me/oozaru9000",
+    "telegram2": null,
+    "discord": null,
+    "coingeckoId": null,
+    "status": "active",
+    "knownAddresses": [
+        {"address": "sei1pk0hs4aw4ysyn2d5neuvrg3l82cv9hg7wtd2aktuxhzxz6tyqafqfl84tt", "alias": "Oozaru Treasury"}
+    ],
+    "ibc": []
+}
