@@ -1,0 +1,21 @@
+{
+    "name": "Eris Staked Roar",
+    "ticker": "ampROAR",
+    "network": "LUNA",
+    "tokenType": "tokenfactory",
+    "tokenDenom": "factory/terra1vklefn7n6cchn0u962w3gaszr4vf52wjvd4y95t2sydwpmpdtszsqvk9wy/ampROAR",
+    "holderContract": null,
+    "stakingContract": null,
+    "exponent": 6,
+    "description": null,
+    "logoUrl": "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra2/images/amproar.png",
+    "website": "https://liondao.money/",
+    "twitter": "TheLionDAO",
+    "telegram": "Lion_DAO",
+    "telegram2": null,
+    "discord": "https://discord.gg/T9dnZrzQwh",
+    "coingeckoId": null,
+    "status": "active",
+    "knownAddresses": [],
+    "ibc": []
+}

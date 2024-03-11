@@ -1,0 +1,21 @@
+{
+    "name": "MOAR",
+    "ticker": "MOAR",
+    "network": "LUNA",
+    "tokenType": "tokenfactory",
+    "tokenDenom": "factory/terra1dndhtdr2v7ca8rrn67chlqw3cl3xhm3m2uxls62vghcg3fsh5tpss5xmcu/MOAR",
+    "holderContract": null,
+    "stakingContract": null,
+    "exponent": 6,
+    "description": null,
+    "logoUrl": "terra/liondao.jpg",
+    "website": "https://liondao.money/",
+    "twitter": "TheLionDAO",
+    "telegram": "Lion_DAO",
+    "telegram2": null,
+    "discord": "https://discord.gg/T9dnZrzQwh",
+    "coingeckoId": null,
+    "status": "active",
+    "knownAddresses": [],
+    "ibc": []
+}
