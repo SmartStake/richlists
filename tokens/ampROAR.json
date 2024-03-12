@@ -16,6 +16,11 @@
     "discord": "https://discord.gg/T9dnZrzQwh",
     "coingeckoId": null,
     "status": "active",
-    "knownAddresses": [],
+    "knownAddresses": [
+        {
+            "address": "terra1srd5yxrg346qd7mne893gy3g43elh2swcmc0j3",
+            "alias": "Alliance Staking Hub"
+        }
+    ],
     "ibc": []
 }
