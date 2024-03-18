@@ -22,6 +22,10 @@
             "alias": "Dev Wallet"
         },
         {
+            "address": "migaloo1crsvm4qddplxhag29nd2zyw6k6jzh06hlcctya4ynfvuhhu3yt4q0pn4t3",
+            "alias": "RAC-WHALE LP WW Dex"
+        },
+        {
             "address": "migaloo1nsh9t4uhnhzpgp79tx8mlcgx7ma9zl873685pemjhzckupf4vrssphzek6",
             "alias": "$RAC DAO"
         }
