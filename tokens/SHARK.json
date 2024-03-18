@@ -38,6 +38,10 @@
               {
                 "address": "osmo1eqntnl6tzcj9h86psg4y4h6hh05g2h9nhgr9xr",
                 "alias": "Dev Wallet"
+              },
+              {
+                "address": "osmo1nkjck7774semslqk6f8n058m4gwcw5spqtza0hrjf8e2kshn4x6svjrc0m",
+                "alias": "SHARK-OSMO LP WW Dex"
               }
             ]
         }
