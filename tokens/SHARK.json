@@ -28,6 +28,10 @@
         {
             "address": "migaloo10zqfqhw44e6gvu97frjzcghunndskhu40uyztwu00y6dr9qxrz6qcjfrf7",
             "alias": "Migaloo Foundation"
+        },
+        {
+            "address": "migaloo1jf504h0avafqfcxsr4rwut8p3ffkjzxufmwwtu9k3ppkm42qd9pql2xfnn",
+            "alias": "Vesting Contract"
         }
     ],
     "ibc": [
