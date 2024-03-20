@@ -1,0 +1,45 @@
+{
+    "name": "Racoon",
+    "ticker": "RAC",
+    "network": "WHALE",
+    "tokenType": "tokenfactory",
+    "tokenDenom": "factory/migaloo1eqntnl6tzcj9h86psg4y4h6hh05g2h9nj8e09l/urac",
+    "holderContract": null,
+    "stakingContract": null,
+    "exponent": 6,
+    "description": "$RAC is the governance token of Racoon which receives royalties from every applications built by Racoon.",
+    "logoUrl": "https://github.com/cosmos/chain-registry/blob/master/migaloo/images/rac.png",
+    "website": "https://www.racoon.supply/",
+    "twitter": "RacoonSupply",
+    "telegram": null,
+    "telegram2": null,
+    "discord": "https://discord.com/invite/QV5cDdxn4q",
+    "coingeckoId": null,
+    "status": "active",
+    "knownAddresses": [
+        {
+            "address": "migaloo1eqntnl6tzcj9h86psg4y4h6hh05g2h9nj8e09l",
+            "alias": "Dev Wallet"
+        },
+        {
+            "address": "migaloo1crsvm4qddplxhag29nd2zyw6k6jzh06hlcctya4ynfvuhhu3yt4q0pn4t3",
+            "alias": "RAC-WHALE LP WW Dex"
+        },
+        {
+            "address": "migaloo1nsh9t4uhnhzpgp79tx8mlcgx7ma9zl873685pemjhzckupf4vrssphzek6",
+            "alias": "$RAC DAO"
+        }
+    ],
+    "ibc": [
+        {
+            "network": "OSMO",
+            "denom": "ibc/DDF1CD4CDC14AE2D6A3060193624605FF12DEE71CF1F8C19EEF35E9447653493",
+            "knownAddresses": [
+              {
+                "address": "osmo1eqntnl6tzcj9h86psg4y4h6hh05g2h9nhgr9xr",
+                "alias": "Dev Wallet"
+              }
+            ]
+        }
+    ]
+}
