@@ -1,0 +1,21 @@
+{
+    "name": "Wind DAO",
+    "ticker": "WIND",
+    "network": "JUNO",
+    "tokenType": "tokenfactory",
+    "tokenDenom": "factory/juno1h6y8tkceau4d8zyv5aa0fwdj2pa2y0gz2hx0tq/uwind",
+    "holderContract": null,
+    "stakingContract": null,
+    "exponent": 6,
+    "description": "A self-managed DAO on juno",
+    "logoUrl": "https://pbs.twimg.com/profile_images/1770680386466480130/KKx-OfUU_400x400.jpg",
+    "website": null,
+    "twitter": "WindDAO_",
+    "telegram": "WINDDAO",
+    "telegram2": null,
+    "discord": null,
+    "coingeckoId": null,
+    "status": "active",
+    "knownAddresses": [],
+    "ibc": []
+}
