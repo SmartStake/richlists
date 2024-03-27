@@ -1,0 +1,27 @@
+{	
+"name":	"ERIS Alliance Staked boneWHALE",
+"ticker":	"boneWHALEt",
+"network":	"TERRA",
+"tokenType":	"tokenfactory",
+"tokenDenom":	"factory/terra10j3zrymfrkta2pxe0gklc79gu06tqyuy8c3kh6tqdsrrprsjqkrqzfl4df/boneWHALEt",
+"holderContract":	null,
+"stakingContract":	null,
+"exponent":	6,
+"description":	"ERIS Alliance Staked boneWHALE on Terra",
+"logoUrl":	null,
+"website":	"https://www.erisprotocol.com/terra/amplifier/boneWHALE",
+"twitter":	"BackBone_Labs",
+"telegram":	null,
+"telegram2":	null,
+"discord":	"https://discord.com/invite/w92NfEDz33",
+"coingeckoId":	null,
+"status":	"active",
+
+"IBC": [
+    {
+        "network": "WHALE",
+        "denom": "ibc/E54A0C1E4A2A79FD4F92765F68E38939867C3DA36E2EA6BBB2CE81C43F4C8ADC",
+        "knownAddresses": []
+    }
+]
+}
