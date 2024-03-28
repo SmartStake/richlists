@@ -1,0 +1,27 @@
+{	
+"name":	"ERIS Alliance Staked ampWHALE",
+"ticker":	"ampWHALEt",
+"network":	"LUNA",
+"tokenType":	"tokenfactory",
+"tokenDenom":	"factory/terra1j35ta0llaxcf55auv2cjqau5a7aee6g8fz7md7my7005cvh23jfsaw83dy/ampWHALEt",
+"holderContract":	null,
+"stakingContract":	null,
+"exponent":	6,
+"description":	"ERIS Alliance Staked ampWHALE on Terra",
+"logoUrl":	null,
+"website":	"https://www.erisprotocol.com/terra/amplifier/ampWHALE",
+"twitter":	"eris_protocol",
+"telegram":	"t.me/eris_protocol",
+"telegram2":	null,
+"discord":	null,
+"coingeckoId":	null,
+"status":	"active",
+
+"ibc": [
+    {
+        "network": "WHALE",
+        "denom": "ibc/EA459CE57199098BA5FFDBD3194F498AA78439328A92C7D136F06A5220903DA6",
+        "knownAddresses": []
+    }
+]
+}
