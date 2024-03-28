@@ -16,7 +16,7 @@
 "discord":	"https://discord.com/invite/w92NfEDz33",
 "coingeckoId":	null,
 "status":	"active",
-
+"knownAddresses": [],
 "ibc": [
     {
         "network": "WHALE",
