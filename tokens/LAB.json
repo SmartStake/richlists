@@ -1,21 +1,21 @@
 {
-    "name": "LAB", # mandatory (the comments mentioned here should not be added to the json file you submit. see any of the existing file for reference)
-    "ticker": "LAB", # mandatory
-    "network": "OSMO", # mandatory - ticker for the network where the token is minted
-    "tokenType": "tokenfactory", # mandatory - tokenfactory or ibc or cw20
-    "tokenDenom": "factory/osmo17fel472lgzs87ekt9dvk0zqyh5gl80sqp4sk4n/LAB",  # mandatory for tokenfactory or ibc. must match the format given. Try total supply API for the network to figure out the correct input e.g. https://rest.cosmos.directory/injective/cosmos/bank/v1beta1/supply. For token factory tokens, it will be like: factory/inj1zq37mfquqgud2uqemqdkyv36gdstkxl27pj5e3/bulls. For an IBC asset, it will be like: ibc/0EC78B75D318EA0AAB6160A12AEE8F3C7FEA3CFEAD001A3B103E11914709F4CE
-    "holderContract": null, # mandatory for cw20 based tokens
-    "stakerContract": null, # optional and applicable only for cw20 based tokens at this time
-    "exponent": 6, # mandatory. number of decimal places in the token balance
-    "description": "LAB - Everything is an Experiment", # optional value. not needed for IBC assets if they are already supported on smart stake on the primary network e.g. Terra for Astroport
-    "logoUrl": "https://pbs.twimg.com/profile_images/1761089456180998144/c1KQv6mY_400x400.png", # mandatory for tokenfactory. not needed for IBC assets 
-    "website": "https://www.madscientists.io/", # optional value. not needed for IBC assets
-    "twitter": "madscientists_x", # optional value. twitter handle is enough. not needed for IBC assets
-    "telegram": null, # optional value. tg handle is enough. not needed for IBC assets
-    "telegram2": null, # optional value. tg handle is enough. not needed for IBC assets
-    "discord": "https://discord.gg/madscientists", # optional value. share full value of the url. not needed for IBC assets
-    "coingeckoId": null, # optional value (update it when it becomes available) - API Id from coingecko.com. This will be used to show dollar value of token balances. not needed for IBC assets
-    "status": "active" # mandatory. Active indicates token is to be supported. Inactive or any other value will delist the token from Smart Stake
+    "name": "LAB", 
+    "ticker": "LAB", 
+    "network": "OSMO", 
+    "tokenType": "tokenfactory", 
+    "tokenDenom": "factory/osmo17fel472lgzs87ekt9dvk0zqyh5gl80sqp4sk4n/LAB", 
+    "holderContract": null, 
+    "stakerContract": null, 
+    "exponent": 6, 
+    "description": "LAB - Everything is an Experiment", 
+    "logoUrl": "https://pbs.twimg.com/profile_images/1761089456180998144/c1KQv6mY_400x400.png", 
+    "website": "https://www.madscientists.io/", 
+    "twitter": "madscientists_x", 
+    "telegram": null, 
+    "telegram2": null, 
+    "discord": "https://discord.gg/madscientists", 
+    "coingeckoId": null, 
+    "status": "active" 
     "knownAddresses": [
         {
             "address": "osmo1xwkz3xwfdn3rr924gma80rdkw6y4rm7hjhzexhlqazh600vduzwq74zvws",
@@ -58,6 +58,5 @@
             "alias": "White Whale Pool #1642"
         },
     ],
-    "ibc": [ # listing of IBC assets for this token e.g if token is present as ibc asset in OSMO, INJ, SEI, below entries are needed
-    ],
+    "ibc": [],
 }
