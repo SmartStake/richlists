@@ -15,7 +15,7 @@
     "telegram2": null, 
     "discord": "https://discord.gg/madscientists", 
     "coingeckoId": null, 
-    "status": "active" 
+    "status": "active",
     "knownAddresses": [
         {
             "address": "osmo1xwkz3xwfdn3rr924gma80rdkw6y4rm7hjhzexhlqazh600vduzwq74zvws",
