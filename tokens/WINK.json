@@ -5,7 +5,7 @@
     "tokenType": "tokenfactory",
     "tokenDenom": "factory/kujira12cjjeytrqcj25uv349thltcygnp9k0kukpct0e/uwink",
     "holderContract": null,
-    "stakingContract": null,
+    "stakingContract": "kujira1ajk7fz7sucxzjc7fdk0k36gjn9h7d9033hewhhjx0wg63tlu4nqsjmdqj5",
     "exponent": 6,
     "description": null,
     "logoUrl": "projects/winkhub.jpg",
