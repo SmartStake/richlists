@@ -1,0 +1,26 @@
+{
+    "name": "DRUGS",
+    "ticker": "DRUGS",
+    "network": "INJ",
+    "tokenType": "cw20",
+    "tokenDenom": "inj19vy83ne9tzta2yqynj8yg7dq9ghca6yqn9hyej",
+    "holderContract": null,
+    "stakingContract": null,
+    "exponent": 18,
+    "description": "To help get drugs away from kids and give them to adults",
+    "logoUrl": null,
+    "website": null,
+    "twitter": null,
+    "telegram": null,
+    "telegram2": null,
+    "discord": null,
+    "coingeckoId": null,
+    "status": "active",
+    "knownAddresses": [
+        {
+            "address": "inj1h8nz62nr0sngq6jm9t87r06l4qxv35hmjsgazc",
+            "alias": "Astroport LP"
+        }
+    ],
+    "ibc": []
+}
