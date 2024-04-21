@@ -18,8 +18,12 @@
     "status": "active",
     "knownAddresses": [
         {
-            "address": "inj1h8nz62nr0sngq6jm9t87r06l4qxv35hmjsgazc",
+            "address": "inj102qaywu5pqu2ec30ltevxwmp3yn3lfahlvswyh",
             "alias": "Astroport LP"
+        },
+        {
+            "address": "inj1dh8cm0j4nftd78slh9gzvmwg68366luxe46mqa",
+            "alias": "D.A.R.E"
         }
     ],
     "ibc": []
