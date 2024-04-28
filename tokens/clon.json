@@ -1,0 +1,34 @@
+{
+    "name": "CLON",
+    "ticker": "CLON",
+    "network": "LUNA",
+    "tokenType": "cw20",
+    "tokenDenom": null,
+    "holderContract": "terra164ssz60yvsxey0ku9mtcaegdeyxwzuwwqyrp238nvflwqve0pvxsra7fa2",
+    "stakingContract": "terra1a7dq6nvlk6852l2mezge822gl9gw6pwvea44wjdfrk80x02wwq6qu9mkkm",
+    "exponent": 6,
+    "description": "CloneEliteFund",
+    "logoUrl": "https://i.imgur.com/RqXyt5t.png",
+    "website": "https://clonefund.github.io/clonelitefund/",
+    "twitter": "ClonEliteFund",
+    "telegram": "https://t.me/+khH9OVYJB5A5OTZk",
+    "telegram2": null,
+    "discord": null,
+    "coingeckoId": null,
+    "status": "active",
+    "knownAddresses": [
+        {
+            "address": "terra1xy0eq8kzxhcxf4wjmzep8j34t48v2h478vqj9kwm8fesvvwcg4nq8h2gtq",
+            "alias": "CLON/USD"
+        },
+        {
+            "address": "terra17w22szyqtqsvypcwt03q7s7u0p64qgmnqls48t",
+            "alias": "CLON HOT WALLET"
+        },
+        {
+            "address": "terra1n2404798vw6e227eukxv58l495tscke9fl537uk7mf389u9sscrsjx690r",
+            "alias": "CLON/LUNA"
+        }
+    ],
+    "ibc": []
+}
