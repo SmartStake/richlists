@@ -1,0 +1,31 @@
+
+{
+    "name": "babyCLON",
+    "ticker": "babyCLON",
+    "network": "INJ",
+    "tokenType": "cw20",
+    "tokenDenom": null,
+    "holderContract": "inj1pyghkw9q0kx8mnuhcxpqnczfxst0way2ep9s54",
+    "stakingContract": null,
+    "exponent": 6,
+    "description": "babyCLON meme coin",
+    "logoUrl": "https://i.imgur.com/2LeRPnN.png",
+    "website": "https://clonefund.github.io/clonelitefund/",
+    "twitter": null,
+    "telegram": null,
+    "telegram2": null,
+    "discord": null,
+    "coingeckoId": null,
+    "status": "active",
+    "knownAddresses": [
+        {
+            "address": "inj1r8sclpcdzqng8vj53y0zy0uutagvvdlanpfr35",
+            "alias": "babyCLON/inj DOJO LP"
+        },
+        {
+            "address": "inj1wzfz80n9j9utngmfh2zggp9chx2tn42jt0xcdm",
+            "alias": "babyCLON/CLON Astroport LP"
+        }
+    ],
+    "ibc": []
+}
