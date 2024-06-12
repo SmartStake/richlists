@@ -8,7 +8,7 @@
     "stakingContract": null,
     "exponent": 18,
     "description": "To help get drugs away from kids and give them to adults",
-    "logoUrl": null,
+    "logoUrl": "https://i.imgur.com/8f9uHTN.png",
     "website": null,
     "twitter": null,
     "telegram": null,
@@ -24,6 +24,10 @@
         {
             "address": "inj1dh8cm0j4nftd78slh9gzvmwg68366luxe46mqa",
             "alias": "D.A.R.E"
+        },
+        {
+            "address": "inj13zqdyhlum28n6xk4l7yyr45zt5n535ct4gvudt",
+            "alias": "Burn Address"
         }
     ],
     "ibc": []
