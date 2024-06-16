@@ -1,0 +1,21 @@
+{
+    "name": "The Kartel Project",
+    "ticker": "KART",
+    "network": "KUJI",
+    "tokenType": "tokenfactory",
+    "tokenDenom": "factory/kujira13x2l25mpkhwnwcwdzzd34cr8fyht9jlj7xu9g4uffe36g3fmln8qkvm3qn/ukart",
+    "holderContract": null,
+    "stakingContract": null,
+    "exponent": 6,
+    "description": "Bringing GameFi to Kujira",
+    "logoUrl": "https://finder.kujira.network/assets/kart.bd75e5ae.png",
+    "website": "kartelproject.app",
+    "twitter": "KartelProject",
+    "telegram": "thekartelprojectchat",
+    "telegram2": null,
+    "discord": null,
+    "coingeckoId": null,
+    "status": "active",
+    "knownAddresses": [],
+    "ibc": []
+}
