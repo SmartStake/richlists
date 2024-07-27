@@ -1,0 +1,21 @@
+{
+    "name": "ashSYN",
+    "ticker": "ashSYN",
+    "network": "INJ",
+    "tokenType": "tokenfactory",
+    "tokenDenom": "factory/inj1ej2f3lmpxj4djsmmuxvnfuvplrut7zmwrq7zj8/syn.ash",
+    "holderContract": null,
+    "stakingContract": null,
+    "exponent": 6,
+    "description": "Burn SYN token reciept",
+    "logoUrl": null,
+    "website": "https://burn.community/",
+    "twitter": "_ash_dao",
+    "telegram": "https://t.me/GalacticSyndicate",
+    "telegram2": "https://t.me/Galactic_Miners",
+    "discord": "https://discord.gg/QuVpy7eQ8V",
+    "coingeckoId": null,
+    "status": "active",
+    "knownAddresses": [],
+    "ibc": []
+}
