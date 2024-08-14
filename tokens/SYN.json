@@ -23,10 +23,5 @@
         }
     ],
     "ibc": [
-        {
-            "network": "WHALE",
-            "denom": "ibc/33E97105B5C1F48CB7D6400F4673F9B3699AC59EDB621CCCD57D5D480E0C83B6",
-            "knownAddresses": []
-        }
     ]
 }
