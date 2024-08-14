@@ -1,6 +1,6 @@
 {
-    "name": "SYN2",
-    "ticker": "syn",
+    "name": "SYN",
+    "ticker": "SYN2",
     "network": "INJ",
     "tokenType": "tokenfactory",
     "tokenDenom": "factory/inj1a6xdezq7a94qwamec6n6cnup02nvewvjtz6h6e/SYN",
