@@ -60,11 +60,6 @@
             "network": "NTRN",
             "denom": "ibc/5751B8BCDA688FD0A8EC0B292EEF1CDEAB4B766B63EC632778B196D317C40C3A",
             "knownAddresses": []
-        },
-        {
-            "network": "SEI",
-            "denom": "ibc/0EC78B75D318EA0AAB6160A12AEE8F3C7FEA3CFEAD001A3B103E11914709F4CE",
-            "knownAddresses": []
         }
     ]
 }

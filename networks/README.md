@@ -20,10 +20,10 @@ Instructions:
             "alias": "Astroport Staking"
         },
     ],
-    "ibc": [ # listing of IBC assets for this network e.g if network is present as ibc asset in OSMO, LUNA, SEI, below entries are needed
+    "ibc": [ # listing of IBC assets for this network e.g if network is present as ibc asset in OSMO, LUNA, below entries are needed
         {"network": "OSMO", "denom": "ibc/42A9553A7770F3D7B62F3A82AF04E7719B4FD6EAF31BE5645092AAC4A6C2201D", "knownAddresses": [
             {"address": "osmo1nyu6sk9rvtvsltm7tjjrp6rlavnm3e4sq03kltde6kesam260f8szar8ze", "alias": "Astroport Staking"}]},
-        {"network": "SEI", "denom": "ibc/0EC78B75D318EA0AAB6160A12AEE8F3C7FEA3CFEAD001A3B103E11914709F4CE", "knownAddresses": []}
+        {"network": "LUNA", "denom": "ibc/0EC78B75D318EA0AAB6160A12AEE8F3C7FEA3CFEAD001A3B103E11914709F4CE", "knownAddresses": []}
     ],
 }
 ```
