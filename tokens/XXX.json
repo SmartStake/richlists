@@ -5,11 +5,11 @@
     "tokenType": "cw20",
     "tokenDenom": null,
     "holderContract": "terra10se906awphtccf4vd83m0ulpmpt9v4msuakmpy0pwvmtxmup3kdq25rayn",
-    "stakingContract": "terra1mjhu6tnf8djhnnnntfzs3s58trh8qgp57g3ppx90xxrhh3u36x6qzej956",
+    "stakingContract": "terra1yt0gwdztruxxknp7wlrk88urhgttfhrl7kez3eqksav2awr7yxuscwhmam",
     "exponent": 10,
     "description": "TheOnlyOne DAO is bringing a new level of liquidity to @terra_money with the $xxx token. HARVEST FOR VALUE. NFT.",
     "logoUrl": "projects/theonlyone.jpg",
-    "website": "https://theonlyone-dao.site",
+    "website": "https://linktr.ee/theonlyonedao",
     "twitter": "TheOnlyOneDAO",
     "telegram": "t.me/+idYWYcVMD6piMDhk",
     "telegram2": null,
@@ -17,42 +17,6 @@
     "coingeckoId": null,
     "status": "active",
     "knownAddresses": [
-        {
-            "address": "terra1k66g3tfq44xejenl94qzms9537zlzhgft2m334",
-            "alias": "Team Wallet"
-        },
-        {
-            "address": "terra1dlxtm4759m34svlgamsek6a36yk6wu3dzutrwk",
-            "alias": "Team Wallet"
-        },
-        {
-            "address": "terra1mghsnv4k45ajy5n5xxf8rdvu6fsdke0q8kwndh",
-            "alias": "Team Wallet"
-        },
-        {
-            "address": "terra12mc20z6v2v0pzxews8acq6yj0ltkhgr8uka08w",
-            "alias": "Team Wallet"
-        },
-        {
-            "address": "terra1ydng2lsgrhn4w39d9v57uu6lqn0k8z85wklngf",
-            "alias": "Team Wallet"
-        },
-        {
-            "address": "terra10aleuf9d3h93kdtrx285kl6y6d2vh3ewdshwfv",
-            "alias": "Team Wallet"
-        },
-        {
-            "address": "terra17djjtw3z2tcuvkpwjezj8gfwpcvxghc7lxth2n",
-            "alias": "Team Wallet"
-        },
-        {
-            "address": "terra17jxk6xu7gcsf0eawlr8kv34uyw44wzjnugy5qr",
-            "alias": "Team Wallet"
-        },
-        {
-            "address": "terra1xjfeg8fhgxdpqwnj2svqs659scqjnd0ese3xvrvhm03r6vnh4s2sdp6n5k",
-            "alias": "TheOnlyOneDao xxx token staking membership"
-        },
         {
             "address": "terra18wwlt7quzxxxnq3we3vjlmsmzwz2klr3xz3ks3paer2jkm0t837qhqk88r",
             "alias": "xxx/ROAR LP"
