@@ -7,7 +7,7 @@
     "holderContract": null,
     "stakingContract": null,
     "exponent": 6,
-    "description": "Meme token",
+    "description": "First memecoin on Injective. It's a dog, but he has nunchucks! Follow @dogwifnunchucks on X",
     "logoUrl": "https://raw.githubusercontent.com/cosmos/chain-registry/master/injective/images/ninja.png",
     "website": "https://www.dogwifnunchucks.com/",
     "twitter": "dogwifnunchucks",
@@ -48,7 +48,25 @@
         {
             "address": "inj1ntta4qhansaz5cvswnajz7e7xgzf7pfnguudt4",
             "alias": "Black Panther Market Making Bot"
+        },
+        {
+            "address": "inj1z2ldzsmgql9606m2fhyk80gepe5ykhuere8fgn",
+            "alias": "BITMART Centralized Exchange"
+        },
+        {
+            "address": "inj14he0rhfg37glhj0jpmpg2rqvnffvaw26rpmdys",
+            "alias": "COINEX Centralized Exchange"
+        },
+        {
+            "address": "inj1wyxxwp9qksj3fs0lge2huwk3u9jgtrave7sden",
+            "alias": "COINEX (2) Centralized Exchange"
+        },
+        {
+            "address": "inj164pyppndppdmazfjrvecajnwcs3hmq06agn4ka",
+            "alias": "ASTROPORT Generator"
         }
     ],
-    "ibc": []
+    "ibc": [
+        {"network": "OSMO", "denom": "ibc/183C0BB962D2F57C957E0B134CFA0AC9D6F755C02DE9DC2A59089BA23009DEC3", "knownAddresses": []},
+    ]
 }
