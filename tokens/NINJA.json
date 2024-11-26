@@ -67,6 +67,6 @@
         }
     ],
     "ibc": [
-        {"network": "OSMO", "denom": "ibc/183C0BB962D2F57C957E0B134CFA0AC9D6F755C02DE9DC2A59089BA23009DEC3", "knownAddresses": []},
+        {"network": "OSMO", "denom": "ibc/183C0BB962D2F57C957E0B134CFA0AC9D6F755C02DE9DC2A59089BA23009DEC3", "knownAddresses": []}
     ]
 }
