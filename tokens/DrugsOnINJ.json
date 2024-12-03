@@ -1,0 +1,26 @@
+{
+    "name": "DRUGS",
+    "ticker": "DRUGS",
+    "network": "INJ",
+    "tokenType": "tokenfactory",
+    "tokenDenom": null,
+    "holderContract": "factory/inj170xy50dryyk9ur52laks9d02u33gcz4l8g94gs/DRUGS",
+    "stakingContract": null,
+    "exponent": 6,
+    "description": "INJunkies meme of choice",
+    "logoUrl": "https://bafkreiba422adveub2xbhklqj6etrhuhctra2rtjqc6ytedjumcastbsiy.ipfs.w3s.link/",
+    "website": "https://www.drugsoninj.com/",
+    "twitter": "DrugsOnINJ",
+    "telegram": "https://t.me/DrugsOnINJ",
+    "telegram2": null,
+    "discord": null,
+    "coingeckoId": null,
+    "status": "active",
+    "knownAddresses": [
+         {
+            "address": "inj1q2f3dxy064vyqnvvzszwpgkv8aglzgz36jazu7",
+            "alias": "DRUGS DAO"
+        }
+    ],
+    "ibc": []
+}
