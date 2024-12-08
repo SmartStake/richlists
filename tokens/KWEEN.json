@@ -1,0 +1,21 @@
+{
+    "name": "Kween",
+    "ticker": "KWEEN",
+    "network": "LUNA",
+    "tokenType": "cw20",
+    "tokenDenom": null,
+    "holderContract": "terra13c7t0xtfpafcr6gae9f404x5am7euf87c9qwmsphsecamqjjujqs7yfm4m",
+    "stakingContract": null,
+    "exponent": 6,
+    "description": null,
+    "logoUrl": "tokens/kween.webp",
+    "website": "https://dokween.com/",
+    "twitter": "KWEEN_SOL",
+    "telegram": null,
+    "telegram2": null,
+    "discord": null,
+    "coingeckoId": null,
+    "status": "active",
+    "knownAddresses": [],
+    "ibc": []
+}
