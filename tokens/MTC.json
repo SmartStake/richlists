@@ -1,0 +1,25 @@
+{
+    "name": "Matcha Club",
+    "ticker": "MTC",
+    "network": "OSMO",
+    "tokenType": "tokenfactory",
+    "tokenDenom": "factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/mtc",
+    "holderContract": null,
+    "stakingContract": null,
+    "exponent": 6,
+    "description": "Join Matcha Club - use our ecosystem for for free. NFT builder, utility apps. Cooking non-stop!",
+    "logoUrl": "https://raw.githubusercontent.com/cryptomatcha-dev/keplr-chain-registry/refs/heads/main/images/osmosis/factory/osmo1q77cw0mmlluxu0wr29fcdd0tdnh78gzhkvhe4n6ulal9qvrtu43qtd0nh8/mtc.png",
+    "website": "https://builder.crmh.xyz",
+    "twitter": "@crypmatcha",
+    "telegram": "https://t.me/matcha_club",
+    "telegram2": null,
+    "discord": "AwXKwXuBaw",
+    "coingeckoId": null,
+    "status": "active",
+    "knownAddresses": [
+          {"address": "osmo1epsjg802ywe0t5rq3h6agnvzwzax96tx5nx28zunpx3s04e0093sg7mr5g", "alias": "Osmosis Pool #2953"},
+          {"address": "osmo1qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqmcn030", "alias": "Burn Wallet"},
+          {"address": "osmo14ytwr72rgs2wlpt66h86pc5x67wz696n4ss5mjufm583gy7swjqqagnsc8", "alias": "Matcha Club DAO DAO Staking"}
+        ],
+    "ibc": []
+}
