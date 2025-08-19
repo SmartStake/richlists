@@ -1,0 +1,21 @@
+{
+    "name": "ERIS Amplified CAPA",
+    "ticker": "ampCAPA",
+    "network": "LUNA",
+    "tokenType": "tokenfactory",
+    "tokenDenom": "factory/terra186rpfczl7l2kugdsqqedegl4es4hp624phfc7ddy8my02a4e8lgq5rlx7y/ampCAPA",
+    "holderContract": null,
+    "stakingContract": null,
+    "exponent": 6,
+    "description": "ampCAPA is the liquid staking governance token of SOLID ecosystem, powered by ERIS Protocol",
+    "logoUrl": "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra2/images/ampCapa.png",
+    "website": "https://www.erisprotocol.com/terra/amplifier/CAPA",
+    "twitter": "eris_protocol",
+    "telegram": "eris_protocol",
+    "telegram2": null,
+    "discord": "",
+    "coingeckoId": null,
+    "status": "active",
+    "knownAddresses": [],
+    "ibc": []
+}
