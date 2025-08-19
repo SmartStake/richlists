@@ -17,11 +17,5 @@
     "coingeckoId": "stride-staked-injective",
     "status": "active",
     "knownAddresses": [],
-    "ibc": [
-        {
-            "network": "BLD",
-            "denom": "ibc/E5E48993E0D1E813FAC77E0C666CD1D37C5B2B9BD9AC6AD17CC70A8BD56E08D1",
-            "knownAddresses": []
-        }
-    ]
+    "ibc": []
 }

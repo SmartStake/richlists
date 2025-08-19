@@ -33,17 +33,8 @@
             "alias": "Community"
         } 
     ],
-    "ibc": [ {
-            "network": "KUJI",
-            "denom": "ibc/BFDEE4E7F0E8371F195C2A6CFB70E54C18361E475FC26BE3A38B36E55FCEFDD6",
-            "knownAddresses": []
-        },
+    "ibc": [ 
         {
-            "network": "WHALE",
-            "denom": "ibc/106B438A78C581C5291E114B21588C41F98532E04D5369CFEE5825D95D465278",
-            "knownAddresses": []
-        },
-         {
             "network": "OSMO",
             "denom": "ibc/06EF575844982382F4D1BC3830D294557A30EDB3CD223153AFC8DFEF06349C56",
             "knownAddresses": []

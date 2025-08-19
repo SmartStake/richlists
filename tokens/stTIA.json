@@ -17,11 +17,5 @@
     "coingeckoId": "stride-staked-tia",
     "status": "active",
     "knownAddresses": [],
-    "ibc": [
-        {
-            "network": "BLD",
-            "denom": "ibc/4BFBA0996893D2049913D24060BE5936EF8AAF2C89E08B91BCCCA2B8DE3BA241",
-            "knownAddresses": []
-        }
-    ]
+    "ibc": []
 }

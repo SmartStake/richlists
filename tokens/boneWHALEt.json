@@ -17,11 +17,5 @@
 "coingeckoId":	null,
 "status":	"active",
 "knownAddresses": [],
-"ibc": [
-    {
-        "network": "WHALE",
-        "denom": "ibc/E54A0C1E4A2A79FD4F92765F68E38939867C3DA36E2EA6BBB2CE81C43F4C8ADC",
-        "knownAddresses": []
-    }
-]
+"ibc": []
 }

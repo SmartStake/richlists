@@ -104,11 +104,6 @@
     ],
     "ibc": [
         {
-            "network": "KUJI",
-            "denom": "ibc/31ED168F5E93D988FCF223B1298113ACA818DB7BED8F7B73764C5C9FAC293609",
-            "knownAddresses": []
-        },
-        {
             "network": "OSMO",
             "denom": "ibc/98BCD43F190C6960D0005BC46BB765C827403A361C9C03C2FF694150A30284B0",
             "knownAddresses": []
