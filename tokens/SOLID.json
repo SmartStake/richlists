@@ -1,0 +1,21 @@
+{
+    "name": "Solid",
+    "ticker": "SOLID",
+    "network": "LUNA",
+    "tokenType": "cw20",
+    "tokenDenom": null,
+    "holderContract": "terra10aa3zdkrc7jwuf8ekl3zq7e7m42vmzqehcmu74e4egc7xkm5kr2s0muyst",
+    "stakingContract": null,
+    "exponent": 6,
+    "description": "SOLID is the Terra native overcollateralized USD stablecoin, powered by SOLID",
+    "logoUrl": "https://raw.githubusercontent.com/cosmos/chain-registry/master/terra2/images/solid.png",
+    "website": "solid.online",
+    "twitter": "solid_capa",
+    "telegram": "solidTG",
+    "telegram2": null,
+    "discord": "",
+    "coingeckoId": null,
+    "status": "active",
+    "knownAddresses": [],
+    "ibc": []
+}
