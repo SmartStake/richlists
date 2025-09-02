@@ -8,7 +8,7 @@
     "stakingContract": "terra17aj4ty4sz4yhgm08na8drc0v03v2jwr3waxcqrwhajj729zhl7zqnpc0ml",
     "exponent": 6,
     "description": "A multi-chain DEFI/Collateral/NFT Hub of the COSMOS LDSs for NFT Communities.",
-    "logoUrl": "tokens/boneluna.png",
+    "logoUrl": "https://raw.githubusercontent.com/cosmostation/chainlist/master/chain/terra/asset/bluna.png",
     "website": "backbonelabs.io",
     "twitter": "BackBone_Labs",
     "telegram": null,
