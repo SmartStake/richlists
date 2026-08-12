@@ -1,38 +1,86 @@
 {
-    "name": "DROGO",
-    "ticker": "DROGO",
-    "network": "LUNA",
-    "tokenType": "cw20",
-    "tokenDenom": null,
-    "holderContract": "terra1cl273523kmr2uwjhhznq54je69mted2u3ljffm8kp2ap4z3drdksftwqun",
-    "stakingContract": "terra1e204lg0ckaggqxkaqdpfe27p0d75vhdfv32svunuchdx03ls0jqsa7tllr",
-    "exponent": 6,
-    "description": "A Dragon always protect it's treasure",
-    "logoUrl": "https://i.imgur.com/Gp3Tuj8.jpg",
-    "website": "https://theonlyone-dao.site/drogo.html",
-    "twitter": "drogoDao",
-    "telegram": "+idYWYcVMD6piMDhk",
-    "telegram2": null,
-    "discord": "https://discord.com/invite/4vhZ7PkWFu",
-    "coingeckoId": null,
-    "status": "active",
-    "knownAddresses": [
-        {
-            "address": "terra1ju8ykwras2zwnq8nzx4s2henx2qryzpsh58ljx4h2k5l0a30e7sqeu5kzv",
-            "alias": "DROGO/xxx LP"
-        },
-        {
-            "address": "terra1wfzn5tqh24d4y65nhrajpspl5lxdu6menulzhmt48sy7fcndy2lqjytcj2",
-            "alias": "ARMANI/DROGO LP"
-        },
-        {
-            "address": "terra1e204lg0ckaggqxkaqdpfe27p0d75vhdfv32svunuchdx03ls0jqsa7tllr",
-            "alias": "DROGO Token staking membership"
-        },
-        {
-            "address": "terra17jxk6xu7gcsf0eawlr8kv34uyw44wzjnugy5qr",
-            "alias": "TheOnlyOneDAO operating wallet"
-        }
-    ],
-    "ibc": []
+  "name": "DROGO",
+  "ticker": "DROGO",
+  "network": "LUNA",
+  "tokenType": "cw20",
+  "tokenDenom": null,
+  "holderContract": "terra1cl273523kmr2uwjhhznq54je69mted2u3ljffm8kp2ap4z3drdksftwqun",
+  "stakingContract": "terra1e204lg0ckaggqxkaqdpfe27p0d75vhdfv32svunuchdx03ls0jqsa7tllr",
+  "exponent": 6,
+  "description": "A Dragon always protect it's treasure",
+  "logoUrl": "https://egrassy.github.io/theonlyonesite/drogo.png",
+  "website": "https://theonlyone-dao.site/drogo.html",
+  "twitter": "drogoDao",
+  "telegram": "+idYWYcVMD6piMDhk",
+  "telegram2": null,
+  "discord": "https://discord.com/invite/4vhZ7PkWFu",
+  "coingeckoId": null,
+  "status": "active",
+  "knownAddresses": [
+    {
+      "address": "terra1743lfp9h43he7nalsv2r9dufjms4l5d3gdphdkyppzekcez903mqqc2c60",
+      "alias": "DROGO DAO Treasury"
+    },
+    {
+      "address": "terra135sc9g29cvvrmf70c0zu0mz5l8vwgrmuxchdfkshvkj5g04tm7cqg3nuqq",
+      "alias": "DROGO DAO Staking"
+    },
+    {
+      "address": "terra1h2ga49hq2dcv0huxl2gy23zp4tr5mvj48844cl9aqzm5vps45rzsu9w7mk",
+      "alias": "GEM/DROGO LP"
+    },
+    {
+      "address": "terra1syndrvvxshz3getn4r732ywqruf985v20rgl8qe3qy8cdeyt6fqsqlsxja",
+      "alias": "DROGO/LUNA LP"
+    },
+    {
+      "address": "terra1mqpcnl7whmq3l2dyfv6g2yrwwqdq8x055yhc3e5l7ncatk8zawkqxknku7",
+      "alias": "DROGO/EURe LP"
+    },
+    {
+      "address": "terra166gugn2rwsg7lxq4s7xxwxvslstl0kxfwfvtf5778m7r00meyw6snckcgf",
+      "alias": "bLUNA/DROGO LP"
+    },
+    {
+      "address": "terra1krewrx5uye0ux786w9jd2qx4wqz5pz2y5mqxw2k58p4xjhnw5lfqm450m7",
+      "alias": "PIXELIONS DAO Rewards Distribution"
+    },
+    {
+      "address": "terra1p8vdgcuyutxp3g08qjh67qm8jz0qgr7hmcedw459mpy2ufk8xn8qgxue40",
+      "alias": "GUGU DAO Rewards Distribution"
+    },
+    {
+      "address": "terra10dcmdsuj2mhxa68f89q0mun3yp9fte6rf2puv88s0sa600y7z9hsygar04",
+      "alias": "ROAR/DROGO LP"
+    },
+    {
+      "address": "terra1kt8w9wazfrm98hastlwvf0kvqjqw93z6my7xgddpycsstspngvaqa8t7pa",
+      "alias": "DROGO DAO Rewards Distribution"
+    },
+    {
+      "address": "terra1ju8ykwras2zwnq8nzx4s2henx2qryzpsh58ljx4h2k5l0a30e7sqeu5kzv",
+      "alias": "DROGO/XXX LP"
+    },
+    {
+      "address": "terra16wxd7yymfjyg65gk3un8krfffzqlvgkw0286kpdq2zk5emd6fudq8t0r6z",
+      "alias": "XXX DAO Rewards Distribution"
+    },
+    {
+      "address": "terra1sj59r8tg9mq2yrz8rw6p2t4qlarw39klqk5e3l698cnvrpeahyvs7ud54h",
+      "alias": "DROGO/ampWHALE LP"
+    },
+    {
+      "address": "terra1r87haucm8gxjjnxdyhgwkqtlct76df4hsgjlj6sa5l2eakjx6sqqtc640g",
+      "alias": "DROGO DAO Treasury"
+    },
+    {
+      "address": "terra1gvwd58q083vyz9y22ymvvcyqffdzs3ljnn0t54w7xnemf2hv4weql6ratx",
+      "alias": "CAPA/DROGO LP"
+    },
+    {
+      "address": "terra146y8ze54wyz5yzqxk4kzwaxdtg9fr3xe02vq40m8rt9yvv7wn5ys0wh5dc",
+      "alias": "wSOL/DROGO LP"
+    }
+  ],
+  "ibc": []
 }
